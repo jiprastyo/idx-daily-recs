@@ -24,9 +24,18 @@ Outputs:
 
 ## Deploy
 
-- **GitHub Pages** → see [`docs/DEPLOY_GITHUB_PAGES.md`](docs/DEPLOY_GITHUB_PAGES.md)
+- **GitHub Pages** → [`docs/DEPLOY_GITHUB_PAGES.md`](docs/DEPLOY_GITHUB_PAGES.md) — one-command push: `./scripts/push_to_github.sh`
 - **Local machine** → see [`docs/DEPLOY_LOCAL.md`](docs/DEPLOY_LOCAL.md)
 - **Android / iPhone** → see [`docs/DEPLOY_MOBILE.md`](docs/DEPLOY_MOBILE.md)
+
+### Push to GitHub (one command)
+
+```bash
+./scripts/push_to_github.sh            # gh CLI authed: creates repo, pushes main, enables Pages, triggers first run
+./scripts/push_to_github.sh my-name    # custom repo name
+```
+
+No `gh` CLI? The script prints the 4 manual steps (create repo → add remote → push → enable Pages).
 
 ## Documentation (read these)
 

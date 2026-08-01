@@ -1,5 +1,8 @@
 # Maintenance
 
+> A Hermes skill (`idx-daily-recs`) mirrors this doc set (run/debug/deploy/gotchas).
+> Keep both in sync when behavior changes.
+
 ## Watchdog behavior
 
 `data/health.json` is written every run. Statuses:

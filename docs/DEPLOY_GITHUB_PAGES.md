@@ -3,6 +3,30 @@
 Free, cron-friendly, git-as-database. The workflow runs the pipeline twice per trading
 day, commits `data/`, and deploys `site/` via Pages.
 
+## First push (3 min)
+
+The repo is already committed and on branch `main`. One command (uses your authed `gh`
+CLI; your GitHub username is detected automatically):
+
+```bash
+./scripts/push_to_github.sh
+```
+
+What it does: commits any leftovers → creates `jiprastyo/idx-daily-recs` (public) if
+missing → pushes `main` → enables Pages with source **GitHub Actions** via the API →
+triggers the first workflow run.
+
+No `gh` CLI? Manual (2 min):
+1. Create the repo at https://github.com/new — name `idx-daily-recs`, **public**
+   (Pages is free only on public repos). Do NOT add a README (this repo has one).
+2. `git remote add origin https://github.com/<you>/idx-daily-recs.git`
+3. `git push -u origin main`
+4. Repo → **Settings → Pages → Source: "GitHub Actions"**.
+
+**Verify (1 min):** Actions tab → `daily-recs` run is green → open
+`https://<you>.github.io/idx-daily-recs/` → board shows picks and the health table at
+the bottom lists every source with its status (dead sources are visible, never silent).
+
 ## One-time setup (5 min)
 
 1. Push this repo to GitHub.
