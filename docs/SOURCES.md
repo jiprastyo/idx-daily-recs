@@ -70,34 +70,51 @@ Disabled by default in CI (no credentials); see `docs/DEPLOY_LOCAL.md`.
 | ➖ Reachable, no picks found on a given day | ocbc, maybank, uob, cgs, sucor, sf, reliance, phintraco |
 | ⏭️ Skipped by default | x (needs local `xurl` + credentials, `--with-x`) |
 
-## Measured publish times (2026-08-01, live probe)
+## Measured publish times per source (2026-08-01 live probe)
 
-Methods: YouTube RSS `<published>` timestamps (last 15 uploads/channel, exact);
-`article:published_time` meta; PDF `Last-Modified` headers (GMT → WIB = +7h).
-Times are WIB. Small samples — treat as typical windows, not guarantees.
+Methods: YouTube RSS `<published>` timestamps (exact, last 15 uploads/channel);
+`article:published_time` meta; PDF `Last-Modified` headers (GMT → WIB = +7h);
+homepage timestamps. All times WIB. Small samples — typical windows, not guarantees.
 
-| Source | Evidence | Typical publish (WIB) |
-|---|---|---|
-| Minna Padi (Morning Dew PDF) | Last-Modified, 2 days | **04:45–07:45** (pre-market) |
-| Samuel Morning Brief | article meta, 1 day | **~07:46** (pre-market) |
-| Shinhan Daily (bond/equity PDF) | Last-Modified, 1 day | **~08:42** (pre-market) |
-| Mega Equity Daily Report | Last-Modified, 2 days | **~08:30–08:45** (pre-market — not evening!) |
-| RHB (YouTube Morning Stock Pick) | RSS, n=15 | **09:08** (tight 08:57–09:24) |
-| Maybank (YouTube Tiger Daily/Chartist) | RSS, n=15 | **~10:12** (09:02–17:00) |
-| Mirae (YouTube Morning Meeting) | RSS, n=15 | ~12:22 (mixed content, 06:09–20:15) |
-| KAF (YouTube) | RSS, n=7 | ~14:01 (09:45–15:17) |
-| Yuanta research updates | homepage timestamps, 6 samples | **11:00–11:30 and 14:50–15:30** |
-| Phillip (YouTube) | RSS, n=4 | ~17:10 (15:21–23:23) |
-| Sinarmas (YouTube) | RSS, n=15 | ~19:00 (08:53–19:00) |
-| BNI (YouTube) | RSS, n=15 | **~21:25** (09:29–21:44 — evening uploads) |
-| Samuel macro monitor | article meta, 1 day | 18:51 WIB (evening before) |
-
-**Inferred from naming (no direct measurement):** MOST Morning Notes ~08:00, MOST
-Afternoon Highlight ~16:00, BRI Danareksa Equity Snapshot evening (post-close),
-KB Valbury/Kiwoom/Panin/Binaartha/Phintraco/Ajaib morning, Reliance "Morning Coffee"
-morning, OCBC mid-day update, Trimegah Trima+ Picks (app, unknown).
-**Unmeasurable (JS/403):** Victoria, Waterfront, Panin, MOST, NH (no meta found),
-Artha (only install manuals on site), Trimegah.
+| Sekuritas (key) | Source type | Publish time (WIB) | Detail / evidence |
+|---|---|---|---|
+| Minna Padi (minnapadi) | JSON API → PDF | **04:45–07:45** | Last-Modified, 2 days ("Morning Dew") |
+| Samuel Sekuritas (samuel) | PDF / article | **~07:46** | article:published_time, 1 day (Morning Brief); macro monitor 18:51 evening before |
+| Shinhan (shinhan) | JSON API → PDF | **~08:42** | Last-Modified, 1 day (Daily Bond Market Update) |
+| Mega Capital (mega) | PDF | **~08:30–08:45** | Last-Modified, 2 days (Equity Daily Report — morning, not evening) |
+| RHB (yt_rhb) | YouTube RSS | **09:08** (08:57–09:24) | n=15, Morning Stock Pick |
+| Maybank (yt_maybank) | YouTube RSS | **~10:12** (09:02–17:00) | n=15 |
+| Mirae (yt_mirae) | YouTube RSS | ~12:22 (06:09–20:15) | n=15, mixed content |
+| KAF (yt_kaf) | YouTube RSS | ~14:01 (09:45–15:17) | n=7 |
+| Yuanta (yuanta) | HTML | **11:00–11:30 + 14:50–15:30** | homepage timestamps, 6 samples |
+| Phillip (yt_phillip) | YouTube RSS | ~17:10 (15:21–23:23) | n=4 |
+| Sinarmas (yt_sinarmas) | YouTube RSS | ~19:00 (08:53–19:00) | n=15 |
+| BNI (yt_bni) | YouTube RSS | **~21:25** (09:29–21:44) | n=15, evening uploads |
+| NH Korindo (nh) | HTML article | morning (unverified) | no meta found; report named for trading day |
+| Ajaib (ajaib) | HTML article | morning (unverified) | no datePublished meta; article day-of |
+| KB Valbury (kbvalbury) | HTML | morning (inferred) | "Trading Ideas" for the trading day |
+| Kiwoom (kiwoom) | PDF / HTML | morning (inferred) | "Daily Stock Picks" |
+| Binaartha (binaartha) | HTML | morning (inferred) | daily technical research |
+| Phintraco (phintraco) | HTML | morning (inferred) | daily riset posts |
+| Panin (panin) | PDF (JS site) | unmeasurable | riset page JS-rendered |
+| Artha (artha) | PDF | unmeasurable | only install manuals hosted |
+| OCBC (ocbc) | HTML | mid-day (inferred) | "Mid Day Market Update" |
+| UOB Kay Hian (uob) | HTML | morning (inferred) | daily review w/ stock pick |
+| CGS (cgs) | HTML | morning/afternoon (inferred) | riset articles |
+| Sucor (sucor) | HTML | irregular | company updates |
+| Surya Fajar (sf) | HTML | irregular | riset posts |
+| Evergreen (evergreen) | HTML | irregular | riset posts |
+| Reliance (reliance) | PDF | morning (inferred) | "Morning Coffee" |
+| Mandiri MOST (most) | PDF (403) | Morning Notes ~08:00 · Afternoon Highlight ~16:00 (inferred) | 403 blocks direct probing |
+| Verdhana (verdhana) | HTML | midday (inferred) | company reports (BUY/TP) |
+| Waterfront (waterfront) | PDF (SPA) | unmeasurable | React app, no server-rendered data |
+| MNC (mnc) | HTML (JS) | unmeasurable | Next.js, no HTTP API |
+| Victoria (victoria) | PDF | unmeasurable | flaky site, PDFs not linked on homepage |
+| BRI Danareksa (—) | HTML (brights.id) | evening (inferred) | "Equity Snapshot", post-close |
+| BCA (—) | portal (login) | unknown | research portal behind login |
+| Indo Premier (—) | app (IPOT) | unknown | app-only |
+| Trimegah (—) | app (Trima+ Picks) | unknown | app-only |
+| X sources (x) | X social | n/a | requires local `xurl` + credentials |
 
 ### Cluster summary → scheduling
 
