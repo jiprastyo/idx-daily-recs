@@ -1,0 +1,74 @@
+# Source catalog (verified 2026-08-01)
+
+All URLs were live-checked. Publish-time column = observed/known pattern (see research
+file `~/Downloads/Indonesia_Sekuritas_Daily_Research_Map.md` for evidence).
+
+## A. JSON APIs (highest value, structured)
+
+| key | Firm | Method | Endpoint | Notes |
+|---|---|---|---|---|
+| shinhan | Shinhan Sekuritas Indonesia | POST, JSON | `https://shinhansekuritas.co.id/research/getData` | Returns `viewDaily` / `viewTopic` / `viewOutlook`; PDFs at `https://shinhansekuritas.co.id/file/daily/<file>` |
+| minnapadi | Minna Padi Investama Sekuritas Tbk | GET | `https://minnapadi.com/daily-reports-ajax` (token `s4Tjltz4mAeficNg0cgUgjo1aqGfqVprWivXn572`) | Daily reports list; full reports at `/full-reports` |
+| verdhana | Verdhana Sekuritas Indonesia | GET HTML | `https://verdhanaresearch.com` | Public equity-research site (BUY reports w/ TP) |
+| yuanta | Yuanta Sekuritas Indonesia | GET HTML | `https://www.yuanta.co.id` | Homepage "Latest Research": timestamps + `BUY / TP: IDR:<n>` |
+
+## B. Tier A — listing page → daily report (PDF/HTML)
+
+| key | Firm | Listing URL | Report form |
+|---|---|---|---|
+| nh | NH Korindo | `https://www.nhis.co.id/id/research/riset-reguler/` | HTML article `/id/daily-report-<date>/` |
+| samuel | Samuel | `https://samuel.co.id/research-reports/` | Morning Briefs PDF (published ~07:46 WIB) |
+| most | Mandiri MOST | `https://www.most.co.id/riset` | Morning Notes / Afternoon Highlight / Investor Digest |
+| mnc | MNC Sekuritas | `https://www.mncsekuritas.id/category/2/` | MNCS Daily Scope |
+| mega | Mega Capital | `https://www.megasekuritas.id/research.asp` | Equity Daily Report |
+| waterfront | Waterfront | `https://waterfrontsekuritas.com/research` | Daily Report PDF (Unduh) |
+| kbvalbury | KB Valbury | `https://www.kbvalbury.com/research/daily-technical-analysis` | Trading Ideas inline |
+| victoria | Victoria | `https://victoria-sekuritas.co.id/` | Daily Analysis PDFs (`/wp-content/uploads/…/Daily-Analysis-<date>.pdf`) |
+| kiwoom | Kiwoom | `https://www.kiwoom.co.id/market/getMarketReportMain` | Daily Report |
+| ajaib | Ajaib | `https://ajaib.co.id/saham/rekomendasi-saham` | Daily article (picks w/ TP/SL) |
+| binaartha | Binaartha | `https://binaartha.com/technical-research.html` | Inline technical picks |
+| phintraco | Phintraco | `https://phintracosekuritas.com/riset/` | Inline riset posts |
+| panin | Panin | `https://pans.co.id/riset` | Daily Technical Recommendation PDF |
+| artha | Artha | `https://www.arthasekuritas.com/id/research-analysis.php` | Download Report |
+| ocbc | OCBC | `https://www.ocbcsekuritas.com/` | Analisis & Riset (Mid Day Market Update) |
+| maybank | Maybank | `https://www.maybank-ke.co.id/riset` | Riset (Tiger Daily) |
+| phillip | Phillip | `https://www.phillip.co.id/` | Rekomendasi Saham Harian |
+| uob | UOB Kay Hian | `https://utrade.co.id/Research.aspx` | Daily review w/ stock pick |
+| cgs | CGS International | `https://www.cgsi.co.id/insights` | Riset articles |
+| sucor | Sucor | `https://www.sucorsekuritas.com/product/research/` | Equity Report |
+| sf | Surya Fajar | `https://www.sfsekuritas.co.id/produk-layanan/research-recommendation` | Capital Riset |
+| evergreen | Evergreen | `https://evergreensekuritas.co.id/news/riset` | Riset articles |
+| reliance | Reliance | `https://reliancesekuritas.com/` | Morning Coffee |
+
+## C. YouTube RSS (no API key)
+
+`https://www.youtube.com/feeds/videos.xml?channel_id=<UC…>` — channel ID resolved from
+handle at runtime. Handles: `@MiraeAssetSekuritas`, `@rhbsekuritas`, `@bnisekuritas`,
+`@PhillipSekuritasIndonesia` (fallback `@talktophillip`), `@maybanksekuritas`,
+Sinarmas `channel/UCDMD0mwkcz9pe-3rnmbn9WQ`, KAF `@KAFSekuritasIndonesia`.
+
+## D. X (optional, needs local `xurl` + credentials)
+
+Handles: `@MaybankTradeID`, `@MiraeAssetID`, `@SM_Sekuritas`, `@Stockbit`, `@semesta_mg`.
+Disabled by default in CI (no credentials); see `docs/DEPLOY_LOCAL.md`.
+
+## Excluded by design
+
+- **Instagram** — login wall/anti-bot; not scrapable reliably (KGI daily picks, Trimegah
+  Trima+ Picks, RHB/BNI IG posts live there; manual paste workflow documented in
+  `docs/MAINTENANCE.md`).
+- App-only feeds (IPOT, BIONS, SimInvest, Maybank Trade ID, POEMS, HEI5).
+- Tier C firms confirmed to publish nothing public (see research map).
+
+## Current status (verified 2026-08-01, live run)
+
+| Status | Sources |
+|---|---|
+| ✅ Working (records produced) | shinhan (80), mega (13), minnapadi (16), artha (9), verdhana (6), yuanta (6), YT: maybank/sinarmas/rhb/mirae/phillip/kaf, samuel, nh, ajaib (structured price/TP/SL), kbvalbury, kiwoom, binaartha, phillip, evergreen |
+| ⚠️ Flaky (work intermittently from some networks; health shows `failed` on bad days) | shinhan, kiwoom, waterfront, yuanta, victoria — DNS/connect hangs; per-source daemon threads + timeouts keep them from stalling the run |
+| 🔒 JS-rendered, not scrapable via plain HTTP | mnc (Next.js), waterfront (React), victoria, panin, most (403), ajaib (article is server-rendered — works) |
+| ➖ Reachable, no picks found on a given day | ocbc, maybank, uob, cgs, sucor, sf, reliance, phintraco |
+| ⏭️ Skipped by default | x (needs local `xurl` + credentials, `--with-x`) |
+
+Each source's live status is always visible in `data/health.json` and on the site's
+health table — a dead/flaky source is never silently dropped.

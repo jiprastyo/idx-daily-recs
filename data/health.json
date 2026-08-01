@@ -1,0 +1,354 @@
+{
+  "ajaib": {
+    "name": "Ajaib Sekuritas",
+    "category": "html",
+    "status": "ok",
+    "records": 3,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "artha": {
+    "name": "Artha Sekuritas Indonesia",
+    "category": "pdf",
+    "status": "ok",
+    "records": 9,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "binaartha": {
+    "name": "Binaartha Sekuritas",
+    "category": "html",
+    "status": "ok",
+    "records": 1,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "cgs": {
+    "name": "CGS International Sekuritas Indonesia",
+    "category": "html",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "evergreen": {
+    "name": "Evergreen Sekuritas Indonesia",
+    "category": "html",
+    "status": "ok",
+    "records": 1,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "kbvalbury": {
+    "name": "KB Valbury Sekuritas",
+    "category": "html",
+    "status": "ok",
+    "records": 1,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "kiwoom": {
+    "name": "Kiwoom Sekuritas Indonesia",
+    "category": "pdf",
+    "status": "failed",
+    "records": 0,
+    "error": "timed out after 180s",
+    "notes": [],
+    "last_run": "2026-08-01T17:07:06+07:00",
+    "last_ok": "2026-08-01T16:28:32+07:00"
+  },
+  "maybank": {
+    "name": "Maybank Sekuritas Indonesia",
+    "category": "html",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "mega": {
+    "name": "Mega Capital Sekuritas",
+    "category": "pdf",
+    "status": "ok",
+    "records": 13,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "minnapadi": {
+    "name": "Minna Padi Investama Sekuritas",
+    "category": "api",
+    "status": "ok",
+    "records": 16,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "mnc": {
+    "name": "MNC Sekuritas",
+    "category": "html",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "most": {
+    "name": "Mandiri Sekuritas (MOST)",
+    "category": "pdf",
+    "status": "failed",
+    "records": 0,
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.most.co.id/riset",
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": null
+  },
+  "nh": {
+    "name": "NH Korindo Sekuritas Indonesia",
+    "category": "html",
+    "status": "ok",
+    "records": 1,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "ocbc": {
+    "name": "OCBC Sekuritas Indonesia",
+    "category": "html",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "panin": {
+    "name": "Panin Sekuritas Tbk",
+    "category": "pdf",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "phillip": {
+    "name": "Phillip Sekuritas Indonesia",
+    "category": "html",
+    "status": "ok",
+    "records": 1,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "phintraco": {
+    "name": "Phintraco Sekuritas",
+    "category": "html",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "reliance": {
+    "name": "Reliance Sekuritas Indonesia Tbk",
+    "category": "pdf",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "samuel": {
+    "name": "Samuel Sekuritas Indonesia",
+    "category": "pdf",
+    "status": "ok",
+    "records": 1,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "sf": {
+    "name": "Surya Fajar Sekuritas",
+    "category": "html",
+    "status": "failed",
+    "records": 0,
+    "error": "SSLError: HTTPSConnectionPool(host='www.sfsekuritas.co.id', port=443): Max retries exceeded with url: /produk-layanan/research-recommendation (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:2590)')))",
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T16:55:17+07:00"
+  },
+  "shinhan": {
+    "name": "Shinhan Sekuritas Indonesia",
+    "category": "api",
+    "status": "ok",
+    "records": 80,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "sucor": {
+    "name": "Sucor Sekuritas",
+    "category": "html",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "uob": {
+    "name": "UOB Kay Hian Sekuritas",
+    "category": "html",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "verdhana": {
+    "name": "Verdhana Sekuritas Indonesia",
+    "category": "api",
+    "status": "ok",
+    "records": 6,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "victoria": {
+    "name": "Victoria Sekuritas Indonesia",
+    "category": "pdf",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  },
+  "waterfront": {
+    "name": "Waterfront Sekuritas Indonesia",
+    "category": "pdf",
+    "status": "failed",
+    "records": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='waterfrontsekuritas.com', port=443): Max retries exceeded with url: /research (Caused by ConnectTimeoutError(<HTTPSConnection(host='waterfrontsekuritas.com', port=443) at 0x10b547f50>, 'Connection to waterfrontsekuritas.com timed out. (connect timeout=30)'))",
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T16:28:32+07:00"
+  },
+  "x": {
+    "name": "X sources (optional)",
+    "category": "social",
+    "status": "skipped",
+    "records": 0,
+    "error": "run with --with-x (local xurl + credentials)",
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T15:29:59+07:00"
+  },
+  "yt_bni": {
+    "name": "BNI Sekuritas",
+    "category": "social",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [
+      "channel_resolve_failed"
+    ],
+    "last_run": "2026-08-01T17:07:13+07:00",
+    "last_ok": "2026-08-01T17:07:13+07:00"
+  },
+  "yt_kaf": {
+    "name": "KAF Sekuritas Indonesia",
+    "category": "social",
+    "status": "ok",
+    "records": 4,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:07:13+07:00",
+    "last_ok": "2026-08-01T17:07:13+07:00"
+  },
+  "yt_maybank": {
+    "name": "Maybank Sekuritas Indonesia",
+    "category": "social",
+    "status": "ok",
+    "records": 20,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:07:13+07:00",
+    "last_ok": "2026-08-01T17:07:13+07:00"
+  },
+  "yt_mirae": {
+    "name": "Mirae Asset Sekuritas Indonesia",
+    "category": "social",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:07:13+07:00",
+    "last_ok": "2026-08-01T17:07:13+07:00"
+  },
+  "yt_phillip": {
+    "name": "Phillip Sekuritas Indonesia",
+    "category": "social",
+    "status": "ok",
+    "records": 4,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:07:13+07:00",
+    "last_ok": "2026-08-01T17:07:13+07:00"
+  },
+  "yt_rhb": {
+    "name": "RHB Sekuritas Indonesia",
+    "category": "social",
+    "status": "no_new",
+    "records": 0,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:07:13+07:00",
+    "last_ok": "2026-08-01T17:07:13+07:00"
+  },
+  "yt_sinarmas": {
+    "name": "Sinarmas Sekuritas",
+    "category": "social",
+    "status": "ok",
+    "records": 10,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:07:13+07:00",
+    "last_ok": "2026-08-01T17:07:13+07:00"
+  },
+  "yuanta": {
+    "name": "Yuanta Sekuritas Indonesia",
+    "category": "api",
+    "status": "ok",
+    "records": 6,
+    "error": null,
+    "notes": [],
+    "last_run": "2026-08-01T17:02:17+07:00",
+    "last_ok": "2026-08-01T17:02:17+07:00"
+  }
+}
