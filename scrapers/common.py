@@ -29,7 +29,8 @@ NOISE = {"IDR", "TP", "WIB", "WITA", "IHSG", "JCI", "USD", "MSCI", "LQ45", "YTD"
          "PERIODE", "HINGGA", "SELAMA", "SETELAH", "SEBELUM", "MELALUI", "DARI", "UNTUK",
          "BELI", "JUAL", "TAHAN", "TAKE", "PROFIT", "STOP", "LOSS", "HARGA", "POTENSI",
          "RETURN", "TRADE", "LIMIT", "SERTA", "KARENA", "ADALAH", "SUDAH", "DENGAN",
-         "YANG", "DAN", "INI", "ITU", "ATAU", "DAN", "DALAM", "SEBAGAI", "BAGI", "AGAR"}
+         "YANG", "DAN", "INI", "ITU", "ATAU", "DAN", "DALAM", "SEBAGAI", "BAGI", "AGAR",
+         "BI", "ID", "US", "EU", "UK", "AI"}
 
 
 def normalize_action(rating: str) -> str:
@@ -55,7 +56,7 @@ def normalize_action(rating: str) -> str:
 
 def parse_idr(s: str) -> float:
     """Parse IDR amounts that mix Indonesian (1.265 = 1265) and English (6,800) formats."""
-    s = re.sub(r"(?i)\b(?:Rp|IDR)\b\s*", "", s).strip().replace(" ", "")
+    s = re.sub(r"(?i)(?:Rp|IDR)", "", s).strip().replace(" ", "")
     if re.fullmatch(r"\d{1,3}(?:\.\d{3})+(?:,\d+)?", s):      # dots = thousands, comma = decimal
         return float(s.replace(".", "").replace(",", "."))
     if re.fullmatch(r"\d{1,3}(?:,\d{3})+(?:\.\d+)?", s):      # commas = thousands, dot = decimal
@@ -122,12 +123,11 @@ def extract_records(text: str, limit: int = 40, require_target: bool = False) ->
         else:
             continue
         cands = []
+        toks_all = []
         for ln in (line, lines[i - 1] if i else "", lines[i + 1] if i + 1 < len(lines) else ""):
-            for tok in TICKER_RE.findall(ln):
-                if tok not in NOISE and tok != rating and tok not in cands:
-                    cands.append(tok)
-            if cands:
-                break
+            toks_all += [t for t in TICKER_RE.findall(ln) if t not in NOISE and t != rating]
+        # real IDX tickers are 3-5 letters; only fall back to 2-letter tokens if nothing else
+        cands = [t for t in toks_all if len(t) >= 3] or toks_all
         if not cands:
             continue
         target = None
