@@ -70,5 +70,42 @@ Disabled by default in CI (no credentials); see `docs/DEPLOY_LOCAL.md`.
 | ➖ Reachable, no picks found on a given day | ocbc, maybank, uob, cgs, sucor, sf, reliance, phintraco |
 | ⏭️ Skipped by default | x (needs local `xurl` + credentials, `--with-x`) |
 
-Each source's live status is always visible in `data/health.json` and on the site's
-health table — a dead/flaky source is never silently dropped.
+## Measured publish times (2026-08-01, live probe)
+
+Methods: YouTube RSS `<published>` timestamps (last 15 uploads/channel, exact);
+`article:published_time` meta; PDF `Last-Modified` headers (GMT → WIB = +7h).
+Times are WIB. Small samples — treat as typical windows, not guarantees.
+
+| Source | Evidence | Typical publish (WIB) |
+|---|---|---|
+| Minna Padi (Morning Dew PDF) | Last-Modified, 2 days | **04:45–07:45** (pre-market) |
+| Samuel Morning Brief | article meta, 1 day | **~07:46** (pre-market) |
+| Shinhan Daily (bond/equity PDF) | Last-Modified, 1 day | **~08:42** (pre-market) |
+| Mega Equity Daily Report | Last-Modified, 2 days | **~08:30–08:45** (pre-market — not evening!) |
+| RHB (YouTube Morning Stock Pick) | RSS, n=15 | **09:08** (tight 08:57–09:24) |
+| Maybank (YouTube Tiger Daily/Chartist) | RSS, n=15 | **~10:12** (09:02–17:00) |
+| Mirae (YouTube Morning Meeting) | RSS, n=15 | ~12:22 (mixed content, 06:09–20:15) |
+| KAF (YouTube) | RSS, n=7 | ~14:01 (09:45–15:17) |
+| Yuanta research updates | homepage timestamps, 6 samples | **11:00–11:30 and 14:50–15:30** |
+| Phillip (YouTube) | RSS, n=4 | ~17:10 (15:21–23:23) |
+| Sinarmas (YouTube) | RSS, n=15 | ~19:00 (08:53–19:00) |
+| BNI (YouTube) | RSS, n=15 | **~21:25** (09:29–21:44 — evening uploads) |
+| Samuel macro monitor | article meta, 1 day | 18:51 WIB (evening before) |
+
+**Inferred from naming (no direct measurement):** MOST Morning Notes ~08:00, MOST
+Afternoon Highlight ~16:00, BRI Danareksa Equity Snapshot evening (post-close),
+KB Valbury/Kiwoom/Panin/Binaartha/Phintraco/Ajaib morning, Reliance "Morning Coffee"
+morning, OCBC mid-day update, Trimegah Trima+ Picks (app, unknown).
+**Unmeasurable (JS/403):** Victoria, Waterfront, Panin, MOST, NH (no meta found),
+Artha (only install manuals on site), Trimegah.
+
+### Cluster summary → scheduling
+
+- **Pre-market cluster 04:45–08:45 WIB:** Minna Padi, Samuel, Shinhan, Mega
+- **Mid-morning 09:00–10:30:** RHB (09:08), Maybank (10:12)
+- **Midday–afternoon 11:00–15:30:** Yuanta (two windows), KAF (14:01), Mirae
+- **Post-close evening 16:00–21:45:** BRI snapshot, MOST Afternoon Highlight, Sinarmas (19:00), BNI (21:25), Phillip (17:10)
+
+Suggested cron runs (UTC; WIB = UTC+7): **09:45 WIB = `0 2 * * 1-5`** (morning
+cluster), **16:15 WIB = `0 9 * * 1-5`** (post-close), **21:45 WIB = `0 14 * * 1-5`**
+(optional late YT catch-up so BNI/Sinarmas land same-day).
