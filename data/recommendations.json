@@ -1,5 +1,470 @@
 [
   {
+    "id": "b154b70d17ac",
+    "date": "2026-08-17",
+    "source": "ajaib",
+    "source_name": "Ajaib Sekuritas",
+    "ticker": "ADMR",
+    "action": "BUY",
+    "price": 1570.0,
+    "target": 1630.0,
+    "stop_loss": 1530.0,
+    "note": "Beli 1570 / TP 1630 / SL 1530",
+    "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
+    "scraped_at": "2026-08-17T09:14:59+07:00",
+    "confidence": "high"
+  },
+  {
+    "id": "cdd58a84668d",
+    "date": "2026-08-17",
+    "source": "ajaib",
+    "source_name": "Ajaib Sekuritas",
+    "ticker": "BRIS",
+    "action": "BUY",
+    "price": 1775.0,
+    "target": 1825.0,
+    "stop_loss": 1740.0,
+    "note": "Beli 1775 / TP 1825 / SL 1740",
+    "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
+    "scraped_at": "2026-08-17T09:14:59+07:00",
+    "confidence": "high"
+  },
+  {
+    "id": "6601db209711",
+    "date": "2026-08-17",
+    "source": "ajaib",
+    "source_name": "Ajaib Sekuritas",
+    "ticker": "MYOR",
+    "action": "BUY",
+    "price": 1710.0,
+    "target": 1750.0,
+    "stop_loss": 1680.0,
+    "note": "Beli 1710 / TP 1750 / SL 1680",
+    "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
+    "scraped_at": "2026-08-17T09:14:59+07:00",
+    "confidence": "high"
+  },
+  {
+    "id": "085c3c901287",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "TOWR",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "HOLD",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "cd47af364fe3",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "ADHI",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Spec BUY",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "168e5d4e9cd4",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "PGAS",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "HOLD",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "ec4e24d3b23d",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "SSMS",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "HOLD",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "694f6bafb7e6",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "SELL",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya. Indikator teknikal netral dan sentimen netral.",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "8fa72c37e203",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "ADD",
+    "action": "SELL",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Direkomendasikan untuk jual. Indikator teknikal menunjukkan signal jual dengan sentimen netral/negatif",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "f89289bf511b",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "ADD",
+    "action": "ACCUMULATE",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "ADD",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "eaee58fdbd2c",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "ADD",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya atau boleh menambah posisi kepemilikan saham,",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "3548a2c3fa72",
+    "date": "2026-08-17",
+    "source": "artha",
+    "source_name": "Artha Sekuritas Indonesia",
+    "ticker": "PT",
+    "action": "SELL",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "subscribe or sell any securities.",
+    "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
+    "scraped_at": "2026-08-17T09:15:21+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "d13587786200",
+    "date": "2026-08-17",
+    "source": "kbvalbury",
+    "source_name": "KB Valbury Sekuritas",
+    "ticker": "BOD",
+    "action": "BUY",
+    "price": null,
+    "target": 2680.0,
+    "stop_loss": null,
+    "note": "KB Valbury Sekuritas --> About Us Company Overview Vision, Mission & Core Values Management Corporate Governance BOD and BOC Guideline Code of Ethics Risk Management Policy Compliance and Internal Aud",
+    "source_url": "https://www.kbvalbury.com/research/daily-technical-analysis",
+    "scraped_at": "2026-08-17T09:14:59+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "48d3e2729202",
+    "date": "2026-08-17",
+    "source": "kiwoom",
+    "source_name": "Kiwoom Sekuritas Indonesia",
+    "ticker": "HTS",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "KIWOOM SEKURITAS INDONESIA About Us Company Information Corporate Governance Research Organization Open Account Open Account Process Trading System HTS MTS Research Market Report Daily News IPO News I",
+    "source_url": "https://www.kiwoom.co.id/market/detailMarketReportMain?id=5021",
+    "scraped_at": "2026-08-17T09:15:18+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "77b52a365a24",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "AMMN",
+    "action": "SELL",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "2.40%) menjadi lagging movers. Investor asing mencatatkan net sell sebesar IDR",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "21c13a2149bd",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "PNLF",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "BUY",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "4e560dcb57b7",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "HBAT",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "BUY",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "526e7c39b1dc",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "EXCL",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "BUY",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "e72925076e83",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "ASPR",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "BUY",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "f7975e8d5acc",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "MBMA",
+    "action": "SELL",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Short Term Sell—MBMA",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "3fbca66007b4",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "MBMA",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "BUY",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "2dc4b0308d0e",
+    "date": "2026-08-17",
+    "source": "mega",
+    "source_name": "Mega Capital Sekuritas",
+    "ticker": "GPRA",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "BUY",
+    "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 14 Agustus 2026.pdf",
+    "scraped_at": "2026-08-17T09:15:14+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "5effd9498f38",
+    "date": "2026-08-17",
+    "source": "nh",
+    "source_name": "NH Korindo Sekuritas Indonesia",
+    "ticker": "KAMI",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Daily Report | 12 Aug 2026 – NH Korindo Sekuritas Indonesia Menu LAYANAN KAMI Berita & Riset Berita Riset Equity Riset Fixed Income Riset Perusahaan Outlook IPO E-IPO Notasi Khusus Equity Fixed Income",
+    "source_url": "https://www.nhis.co.id/id/daily-report-12-aug-2026/",
+    "scraped_at": "2026-08-17T09:15:04+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "eae358c35338",
+    "date": "2026-08-17",
+    "source": "phillip",
+    "source_name": "Phillip Sekuritas Indonesia",
+    "ticker": "SBN",
+    "action": "BUY",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Welcome to Phillip Sekuritas Indonesia --> --> 021-57900900 [email protected] Open An Account Single button Language English Indonesian --> --> Tentang Kami Tentang Kami Profil Sejarah Jaringan Global",
+    "source_url": "https://www.phillip.co.id/",
+    "scraped_at": "2026-08-17T09:15:07+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "42a570266781",
+    "date": "2026-08-17",
+    "source": "samuel",
+    "source_name": "Samuel Sekuritas Indonesia",
+    "ticker": "JGLE",
+    "action": "BUY",
+    "price": null,
+    "target": 900.0,
+    "stop_loss": null,
+    "note": "JGLE: JungleLand Journey | Not Rated - Samuel Sekuritas Indonesia Skip to content HOME ABOUT US Profile Corporate Governance Corporate Social Responsibility Annual Financial Reports Career Stay Connec",
+    "source_url": "https://samuel.co.id/research-reports/jgle-jungleland-journey-not-rated/",
+    "scraped_at": "2026-08-17T09:15:07+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "7f60dcb4f45f",
+    "date": "2026-08-17",
+    "source": "verdhana",
+    "source_name": "Verdhana Sekuritas Indonesia",
+    "ticker": "EXCL",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "XLSMART Telecom (EXCL IJ) (Neutral) - 2Q26 results in line - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media ",
+    "source_url": "https://verdhanaresearch.com/xlsmart-telecom-excl-ij-neutral-2q26-results-in-line-kgr",
+    "scraped_at": "2026-08-17T09:15:01+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "3f4bc3870c90",
+    "date": "2026-08-17",
+    "source": "verdhana",
+    "source_name": "Verdhana Sekuritas Indonesia",
+    "ticker": "VAC",
+    "action": "SELL",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "Indonesia Flow Radar - Jul-26: Testing the waters - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Other Ind",
+    "source_url": "https://verdhanaresearch.com/indonesia-flow-radar-jul-26-testing-the-waters-rv6",
+    "scraped_at": "2026-08-17T09:15:02+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "d7fd2119634c",
+    "date": "2026-08-17",
+    "source": "verdhana",
+    "source_name": "Verdhana Sekuritas Indonesia",
+    "ticker": "SRBI",
+    "action": "REDUCE",
+    "price": null,
+    "target": 13200.0,
+    "stop_loss": null,
+    "note": "Indonesia Banks - Elevated SRBI outstanding - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Other Industies",
+    "source_url": "https://verdhanaresearch.com/indonesia-banks-elevated-srbi-outstanding-sce",
+    "scraped_at": "2026-08-17T09:15:04+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "57ca6372801d",
+    "date": "2026-08-17",
+    "source": "verdhana",
+    "source_name": "Verdhana Sekuritas Indonesia",
+    "ticker": "EMAS",
+    "action": "BUY",
+    "price": null,
+    "target": 9125.0,
+    "stop_loss": null,
+    "note": "Merdeka Gold Resources (EMAS IJ) (Buy) - On the ground at Asia-Pacific's next large-scale gold mine - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financ",
+    "source_url": "https://verdhanaresearch.com/merdeka-gold-resources-emas-ij-buy-on-the-ground-at-asia-pacifics-next-large-scale-gold-mine-gkb",
+    "scraped_at": "2026-08-17T09:15:05+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "a478c423aac8",
+    "date": "2026-08-17",
+    "source": "verdhana",
+    "source_name": "Verdhana Sekuritas Indonesia",
+    "ticker": "BBNI",
+    "action": "BUY",
+    "price": null,
+    "target": 13200.0,
+    "stop_loss": null,
+    "note": "Bank Negara Indonesia (BBNI IJ) (Buy) - 1H26 results in-line - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Medi",
+    "source_url": "https://verdhanaresearch.com/bank-negara-indonesia-bbni-ij-buy-1h26-results-in-line-zql",
+    "scraped_at": "2026-08-17T09:15:07+07:00",
+    "confidence": "medium"
+  },
+  {
+    "id": "770271229b76",
+    "date": "2026-08-17",
+    "source": "verdhana",
+    "source_name": "Verdhana Sekuritas Indonesia",
+    "ticker": "UNTR",
+    "action": "HOLD",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "United Tractors (UNTR IJ) (Neutral) - Kitchen sinking with tail risk - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strat",
+    "source_url": "https://verdhanaresearch.com/united-tractors-untr-ij-neutral-kitchen-sinking-with-tail-risk-ckh",
+    "scraped_at": "2026-08-17T09:15:09+07:00",
+    "confidence": "medium"
+  },
+  {
     "id": "cc9b8d3b3e83",
     "date": "2026-08-14",
     "source": "ajaib",
@@ -1449,9 +1914,9 @@
     "price": null,
     "target": null,
     "stop_loss": null,
-    "note": "YT: POTENSI AMMN TURN AROUND",
+    "note": "YT: Harga Emas Naik, AMMN & ANTM Diuntungkan? #Saham #Emas",
     "source_url": "https://www.youtube.com/watch?v=ZbrJolgtlkE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1479,9 +1944,9 @@
     "price": null,
     "target": null,
     "stop_loss": null,
-    "note": "YT: UPDATE SAHAM BUMI USAI AKUISISI TAMBANG DI AUSTRALIA",
+    "note": "YT: Akuisisi BUMI: Apakah Sahamnya Akan Naik? #saham #BUMI",
     "source_url": "https://www.youtube.com/watch?v=7ukhGx00Rzw",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1526,7 +1991,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Jelang Pidato Tahunan Presiden? BBCA, ITMG & BUMI jadi Rekomen Serok? Cek Analisanya",
     "source_url": "https://www.youtube.com/watch?v=_uW4f6-aHuI",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1541,7 +2006,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Jelang Pidato Tahunan Presiden? BBCA, ITMG & BUMI jadi Rekomen Serok? Cek Analisanya",
     "source_url": "https://www.youtube.com/watch?v=_uW4f6-aHuI",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1556,7 +2021,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Jelang Pidato Tahunan Presiden? BBCA, ITMG & BUMI jadi Rekomen Serok? Cek Analisanya",
     "source_url": "https://www.youtube.com/watch?v=_uW4f6-aHuI",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1571,7 +2036,7 @@
     "stop_loss": null,
     "note": "YT: Active Watchlist: DSSA & CDIA Masuk Top Gainers",
     "source_url": "https://www.youtube.com/watch?v=yO6DSJ1nYko",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1586,7 +2051,7 @@
     "stop_loss": null,
     "note": "YT: Active Watchlist: DSSA & CDIA Masuk Top Gainers",
     "source_url": "https://www.youtube.com/watch?v=yO6DSJ1nYko",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1601,7 +2066,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Cermati Sentimen Ini buat IHSG Balik Positif | Saham Ini Target Penjualan Asing | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=TPv8V-QBVlA",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -1650,6 +2115,111 @@
     "confidence": "medium"
   },
   {
+    "id": "daac016f9c39",
+    "date": "2026-08-14",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "TIGER",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: TIGER INSIGHTS, TAPI GAK ADA HOST-NYA😛",
+    "source_url": "https://www.youtube.com/watch?v=fM4xrjtbnoA",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "fd639eae8486",
+    "date": "2026-08-14",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "TAPI",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: TIGER INSIGHTS, TAPI GAK ADA HOST-NYA😛",
+    "source_url": "https://www.youtube.com/watch?v=fM4xrjtbnoA",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "06a197c96071",
+    "date": "2026-08-14",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "GAK",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: TIGER INSIGHTS, TAPI GAK ADA HOST-NYA😛",
+    "source_url": "https://www.youtube.com/watch?v=fM4xrjtbnoA",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "a0bc64a006dc",
+    "date": "2026-08-14",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "ADA",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: TIGER INSIGHTS, TAPI GAK ADA HOST-NYA😛",
+    "source_url": "https://www.youtube.com/watch?v=fM4xrjtbnoA",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "67f57cc5e353",
+    "date": "2026-08-14",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "HOST",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: TIGER INSIGHTS, TAPI GAK ADA HOST-NYA😛",
+    "source_url": "https://www.youtube.com/watch?v=fM4xrjtbnoA",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "0d67f7d6055e",
+    "date": "2026-08-14",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "NYA",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: TIGER INSIGHTS, TAPI GAK ADA HOST-NYA😛",
+    "source_url": "https://www.youtube.com/watch?v=fM4xrjtbnoA",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "befe6dc3c9c9",
+    "date": "2026-08-14",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "ANTM",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: Harga Emas Naik, AMMN & ANTM Diuntungkan? #Saham #Emas",
+    "source_url": "https://www.youtube.com/watch?v=ZbrJolgtlkE",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
+    "confidence": "low"
+  },
+  {
     "id": "17df91ae832a",
     "date": "2026-08-13",
     "source": "yt_mirae",
@@ -1661,7 +2231,7 @@
     "stop_loss": null,
     "note": "YT: CPI 예상부합, 미국증시는 혼조 마감 | 데일리 라이브 | 2026.8.13(목)",
     "source_url": "https://www.youtube.com/watch?v=LIX0bjqRtt4",
-    "scraped_at": "2026-08-14T17:07:01+07:00",
+    "scraped_at": "2026-08-17T09:15:23+07:00",
     "confidence": "low"
   },
   {
@@ -2996,7 +3566,7 @@
     "stop_loss": null,
     "note": "YT: ISAT Meroket, Emiten Terkait Data Center hingga Terkorelasi AI jadi Memikat?",
     "source_url": "https://www.youtube.com/watch?v=o2evOwCgz9g",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -3011,7 +3581,7 @@
     "stop_loss": null,
     "note": "YT: Rahasia di Balik Kenaikan BREN & BRPT: Cek Faktanya!",
     "source_url": "https://www.youtube.com/watch?v=5pISjcuM7jI",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -3026,7 +3596,7 @@
     "stop_loss": null,
     "note": "YT: Rahasia di Balik Kenaikan BREN & BRPT: Cek Faktanya!",
     "source_url": "https://www.youtube.com/watch?v=5pISjcuM7jI",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -3056,7 +3626,7 @@
     "stop_loss": null,
     "note": "YT: Update MSCI Rebalancing: Goto Keluar & CPIN Turun, Efek ke IHSG?",
     "source_url": "https://www.youtube.com/watch?v=0Feg1B7Hnsc",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -3071,7 +3641,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Nihil Kejutan dari MSCI, Nasib IHSG? BREN & BRPT Naik? ISAT Rally, Emiten Lain? | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=ktAWpyasReE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -3086,7 +3656,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Nihil Kejutan dari MSCI, Nasib IHSG? BREN & BRPT Naik? ISAT Rally, Emiten Lain? | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=ktAWpyasReE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -3101,7 +3671,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Nihil Kejutan dari MSCI, Nasib IHSG? BREN & BRPT Naik? ISAT Rally, Emiten Lain? | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=ktAWpyasReE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -3116,7 +3686,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Nihil Kejutan dari MSCI, Nasib IHSG? BREN & BRPT Naik? ISAT Rally, Emiten Lain? | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=ktAWpyasReE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4406,7 +4976,7 @@
     "stop_loss": null,
     "note": "YT: SWASEMBADA ENERGI, EMITEN KAPAL IKUTAN HEPI? #maybanksekuritas",
     "source_url": "https://www.youtube.com/watch?v=PE5wlrq_hlM",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4421,7 +4991,7 @@
     "stop_loss": null,
     "note": "YT: SWASEMBADA ENERGI, EMITEN KAPAL IKUTAN HEPI? #maybanksekuritas",
     "source_url": "https://www.youtube.com/watch?v=PE5wlrq_hlM",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4436,7 +5006,7 @@
     "stop_loss": null,
     "note": "YT: EMAS NAIK, SAHAM HRTA LAYAK BUAT INVESTASI?",
     "source_url": "https://www.youtube.com/watch?v=__rcz2Xc4BM",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4451,7 +5021,7 @@
     "stop_loss": null,
     "note": "YT: EMAS NAIK, SAHAM HRTA LAYAK BUAT INVESTASI?",
     "source_url": "https://www.youtube.com/watch?v=__rcz2Xc4BM",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4466,7 +5036,7 @@
     "stop_loss": null,
     "note": "YT: EMAS NAIK, SAHAM HRTA LAYAK BUAT INVESTASI?",
     "source_url": "https://www.youtube.com/watch?v=__rcz2Xc4BM",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4481,7 +5051,7 @@
     "stop_loss": null,
     "note": "YT: EMAS NAIK, SAHAM HRTA LAYAK BUAT INVESTASI?",
     "source_url": "https://www.youtube.com/watch?v=__rcz2Xc4BM",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4496,7 +5066,7 @@
     "stop_loss": null,
     "note": "YT: EMAS NAIK, SAHAM HRTA LAYAK BUAT INVESTASI?",
     "source_url": "https://www.youtube.com/watch?v=__rcz2Xc4BM",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4511,7 +5081,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Hari Ini Usai Koreksi?  TINS, LSIP & KLBF Kian Layak Diserok? Ini Analisanya",
     "source_url": "https://www.youtube.com/watch?v=OEE5vPnNVDE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4526,7 +5096,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Hari Ini Usai Koreksi?  TINS, LSIP & KLBF Kian Layak Diserok? Ini Analisanya",
     "source_url": "https://www.youtube.com/watch?v=OEE5vPnNVDE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4541,7 +5111,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Hari Ini Usai Koreksi?  TINS, LSIP & KLBF Kian Layak Diserok? Ini Analisanya",
     "source_url": "https://www.youtube.com/watch?v=OEE5vPnNVDE",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -4556,7 +5126,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 IHSG Koreksi Tajam Jelang MSCI Rebalancing | Asing Jualan? Rally Telah Usai?  | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=nhcokJ2WSW8",
-    "scraped_at": "2026-08-14T17:07:02+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -10991,7 +11561,7 @@
     "stop_loss": null,
     "note": "Mitratel (MTEL IJ)   BUY / TP: IDR:700 (+57.0%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; font-size: 12px;\"",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-08-14T17:05:42+07:00",
+    "scraped_at": "2026-08-17T09:15:00+07:00",
     "confidence": "medium"
   },
   {
@@ -11006,7 +11576,7 @@
     "stop_loss": null,
     "note": "Bank Negara Indonesia (BBNI IJ)   BUY / TP: IDR:5,300 (+46.0%)   Analyst: Yap Swie Cu <br style=\"font-family: Arial, Verdana, sans-serif; font-si",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-08-14T17:05:42+07:00",
+    "scraped_at": "2026-08-17T09:15:00+07:00",
     "confidence": "medium"
   },
   {
@@ -12596,7 +13166,7 @@
     "stop_loss": null,
     "note": "Indocement (INTP IJ)   BUY / TP: IDR:6,290 (+25.2%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; font-size: 12",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-08-14T17:05:42+07:00",
+    "scraped_at": "2026-08-17T09:15:00+07:00",
     "confidence": "medium"
   },
   {
@@ -14171,7 +14741,7 @@
     "stop_loss": null,
     "note": "Bumi Serpong Damai (BSDE IJ)   BUY / TP: IDR:1,010 (+78.8 %)   Analyst: Yap Swie Cu <br style=\"font-family: Arial, Verdana, sans-serif; font-size",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-08-14T17:05:42+07:00",
+    "scraped_at": "2026-08-17T09:15:00+07:00",
     "confidence": "medium"
   },
   {
@@ -14186,7 +14756,7 @@
     "stop_loss": null,
     "note": "Telkom Indonesia (TLKM IJ)   BUY / TP: IDR:3,400 (+24.1%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; font-si",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-08-14T17:05:42+07:00",
+    "scraped_at": "2026-08-17T09:15:00+07:00",
     "confidence": "medium"
   },
   {
@@ -19391,7 +19961,7 @@
     "stop_loss": null,
     "note": "YT: FUND SPOTLIGHT: REKSA DANA DANAMAS RUPIAH PLUS",
     "source_url": "https://www.youtube.com/watch?v=bHEdVixS9NE",
-    "scraped_at": "2026-08-14T17:07:03+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -19406,7 +19976,7 @@
     "stop_loss": null,
     "note": "YT: FUND SPOTLIGHT: REKSA DANA DANAMAS RUPIAH PLUS",
     "source_url": "https://www.youtube.com/watch?v=bHEdVixS9NE",
-    "scraped_at": "2026-08-14T17:07:03+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -19421,7 +19991,7 @@
     "stop_loss": null,
     "note": "YT: FUND SPOTLIGHT: REKSA DANA DANAMAS RUPIAH PLUS",
     "source_url": "https://www.youtube.com/watch?v=bHEdVixS9NE",
-    "scraped_at": "2026-08-14T17:07:03+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
@@ -19436,7 +20006,7 @@
     "stop_loss": null,
     "note": "YT: FUND SPOTLIGHT: REKSA DANA DANAMAS RUPIAH PLUS",
     "source_url": "https://www.youtube.com/watch?v=bHEdVixS9NE",
-    "scraped_at": "2026-08-14T17:07:03+07:00",
+    "scraped_at": "2026-08-17T09:15:24+07:00",
     "confidence": "low"
   },
   {
