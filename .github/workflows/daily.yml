@@ -18,9 +18,6 @@ concurrency:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -46,11 +43,20 @@ jobs:
             git push
           fi
 
-      - name: Upload site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy site to gh-pages branch (Pages source = branch, no Actions quota needed)
+        run: |
+          git fetch origin gh-pages || true
+          rm -rf /tmp/site-deploy && cp -r site /tmp/site-deploy
+          git checkout --orphan gh-pages-tmp 2>/dev/null || git checkout -B gh-pages-tmp
+          git rm -rf --quiet . 2>/dev/null || true
+          cp -r /tmp/site-deploy/* .
+          touch .nojekyll
+          git add -A
+          if git diff --cached --quiet; then
+            echo "site unchanged, nothing to deploy"
+          else
+            git -c user.name="idx-daily-recs bot" -c user.email="actions@github.com" \
+              commit -m "site: deploy $(TZ=Asia/Jakarta date +'%Y-%m-%d %H:%M WIB')"
+            git push --force origin gh-pages-tmp:gh-pages
+          fi
+          git checkout main
