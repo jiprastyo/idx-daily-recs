@@ -3,6 +3,56 @@
 All URLs were live-checked. Publish-time column = observed/known pattern (see research
 file `~/Downloads/Indonesia_Sekuritas_Daily_Research_Map.md` for evidence).
 
+## Master table — all securities, capability, source type, publish time
+
+Capability legend: ✅ scraper produces records · ⚠️ works but host flaky (DNS/connect
+hangs) · ➖ reachable but usually no picks on a given day · 🔒 not gettable via plain
+HTTP (JS/403) · ⏭️ needs local credentials · 📋 gettable, scraper not written yet ·
+❌ no public feed (login/app-only).
+
+| Key | Firm | Source type | Capability | Publish time (WIB) |
+|---|---|---|---|---|
+| minnapadi | Minna Padi | JSON API → PDF | ✅ working | **04:45–07:45** (measured, Morning Dew) |
+| samuel | Samuel | PDF | ✅ working | **~07:46** (measured, Morning Brief) |
+| mega | Mega Capital | PDF | ✅ working | **~08:30–08:45** (measured, Equity Daily) |
+| shinhan | Shinhan | JSON API → PDF | ✅ working (⚠ flaky host) | **~08:42** (measured, Daily Bond Update) |
+| yt_rhb | RHB | YouTube RSS | ✅ working | **09:08** (measured, 08:57–09:24, n=15) |
+| yt_maybank | Maybank | YouTube RSS | ✅ working | **~10:12** (measured, 09:02–17:00, n=15) |
+| nh | NH Korindo | HTML article | ✅ working | morning (inferred, day-of) |
+| ajaib | Ajaib | HTML article | ✅ working | morning (inferred, day-of) |
+| kbvalbury | KB Valbury | HTML | ✅ working | morning (inferred, Trading Ideas) |
+| kiwoom | Kiwoom | PDF | ✅ working (⚠ flaky host) | morning (inferred, Daily Stock Picks) |
+| binaartha | Binaartha | HTML | ✅ working | morning (inferred, daily technical) |
+| phillip | Phillip | HTML | ✅ working | morning (inferred, Rekomendasi Harian) |
+| yuanta | Yuanta | HTML | ✅ working (⚠ flaky host) | **11:00–11:30 + 14:50–15:30** (measured, n=6) |
+| verdhana | Verdhana | HTML | ✅ working | midday (inferred, company reports) |
+| yt_mirae | Mirae Asset | YouTube RSS | ✅ working | ~12:22 (measured, 06:09–20:15, n=15) |
+| yt_kaf | KAF | YouTube RSS | ✅ working | ~14:01 (measured, 09:45–15:17, n=7) |
+| artha | Artha | PDF | ✅ working | irregular (inferred, research downloads) |
+| evergreen | Evergreen | HTML | ✅ working | irregular (inferred, riset posts) |
+| yt_phillip | Phillip | YouTube RSS | ✅ working | ~17:10 (measured, 15:21–23:23, n=4) |
+| yt_sinarmas | Sinarmas | YouTube RSS | ✅ working | ~19:00 (measured, 08:53–19:00, n=15) |
+| yt_bni | BNI | YouTube RSS | ✅ working | **~21:25** (measured, 09:29–21:44, n=15) |
+| phintraco | Phintraco | HTML | ➖ reachable, picks vary | morning (inferred) |
+| ocbc | OCBC | HTML | ➖ reachable, picks vary | mid-day (inferred, Mid Day Update) |
+| maybank | Maybank | HTML | ➖ reachable, picks vary | morning (inferred, Tiger Daily) |
+| uob | UOB Kay Hian | HTML | ➖ reachable, picks vary | morning (inferred, daily review) |
+| cgs | CGS International | HTML | ➖ reachable, picks vary | morning/afternoon (inferred) |
+| sucor | Sucor | HTML | ➖ reachable, picks vary | irregular (inferred) |
+| sf | Surya Fajar | HTML | ➖ reachable, picks vary | irregular (inferred, Capital Riset) |
+| reliance | Reliance | PDF | ➖ reachable, picks vary | morning (inferred, Morning Coffee) |
+| mnc | MNC | HTML | 🔒 Next.js — no SSR/HTTP API | morning (expected) |
+| waterfront | Waterfront | PDF | 🔒 React SPA — no SSR | post-close (expected) |
+| victoria | Victoria | PDF | 🔒 flaky host; PDFs not linked on homepage | post-close (expected) |
+| panin | Panin | PDF | 🔒 riset page JS-rendered | morning (expected) |
+| most | Mandiri MOST | PDF | 🔒 HTTP 403 (bot-blocked) | morning/evening (expected) |
+| x | X sources | X API | ⏭️ needs local `xurl` + credentials (`--with-x`) | varies |
+| bri | BRI Danareksa | HTML | 📋 gettable, not yet implemented | post-close evening (expected, Equity Snapshot) |
+| bcasekuritas | BCA Sekuritas | portal | ❌ research portal behind login | — |
+| indopremier | Indo Premier | app | ❌ app-only (IPOT) | — |
+| trimegah | Trimegah | app | ❌ app-only (Trima+ Picks) | — |
+| instagram | IG handles (KGI, RHB, BNI, …) | — | ❌ login wall (manual-paste workflow in MAINTENANCE.md) | varies |
+
 ## A. JSON APIs (highest value, structured)
 
 | key | Firm | Method | Endpoint | Notes |
