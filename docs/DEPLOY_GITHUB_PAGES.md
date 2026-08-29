@@ -1,7 +1,13 @@
 # Deploy: GitHub Pages (recommended)
 
 Free, cron-friendly, git-as-database. The workflow runs the pipeline twice per trading
-day, commits `data/`, and deploys `site/` via Pages.
+day, commits `data/`, and deploys `site/` to the `gh-pages` branch.
+
+**Pages source = `gh-pages` branch** (not "GitHub Actions") — branch deploy needs **zero
+Actions minutes**, so even when the free quota is exhausted you can still update the
+live site from any machine: run the pipeline locally, then push `site/` to `gh-pages`
+(see "Offline / no-quota update" below). The workflow also pushes `site/` to `gh-pages`
+so when quota returns the cron keeps deploying itself.
 
 ## First push (3 min)
 
@@ -68,3 +74,25 @@ Edit the `cron:` lines in `.github/workflows/daily.yml`:
 
 After first run: open `https://<user>.github.io/<repo>/` → board shows today's picks +
 per-source health table. Check `data/health.json` in the repo for per-source status.
+
+## Offline / no-quota update (Actions minutes exhausted)
+
+1. `./scripts/run_local.sh` → scrapes, writes `data/` + `site/`.
+2. `git add -A && git commit -m "data: refresh" && git push` → history = the database.
+3. Deploy the site (zero Actions minutes):
+
+```bash
+rm -rf /tmp/site-deploy && mkdir -p /tmp/site-deploy
+cp -r site/. /tmp/site-deploy/ && touch /tmp/site-deploy/.nojekyll
+git worktree add -B gh-pages /tmp/gh-pages-worktree origin/main
+cd /tmp/gh-pages-worktree && git rm -rf --quiet . && rm -rf * .github
+cp -r /tmp/site-deploy/. . && git add -A
+git -c user.name="idx-daily-recs bot" -c user.email="actions@github.com" \
+  commit -m "site: deploy $(date +'%Y-%m-%d %H:%M')" && git push -f origin gh-pages
+cd .. && git worktree remove /tmp/gh-pages-worktree --force
+```
+
+Live within ~2 min (Pages rebuilds the branch automatically). The GitHub Actions
+workflow no longer needs `deploy-pages`; it pushes `site/` to `gh-pages` itself, so the
+cron keeps working when quota resets. To switch back to Actions deploy: Settings →
+Pages → Source → "GitHub Actions".
