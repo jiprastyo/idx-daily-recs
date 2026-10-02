@@ -11,7 +11,7 @@
     "stop_loss": 25500.0,
     "note": "Beli 26350 / TP 27100 / SL 25500",
     "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-    "scraped_at": "2026-10-02T13:29:13+07:00",
+    "scraped_at": "2026-10-02T22:30:59+07:00",
     "confidence": "high"
   },
   {
@@ -26,7 +26,7 @@
     "stop_loss": 254.0,
     "note": "Beli 264 / TP 276 / SL 254",
     "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-    "scraped_at": "2026-10-02T13:29:13+07:00",
+    "scraped_at": "2026-10-02T22:30:59+07:00",
     "confidence": "high"
   },
   {
@@ -41,7 +41,7 @@
     "stop_loss": 1300.0,
     "note": "Beli 1380 / TP 1425 / SL 1300",
     "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-    "scraped_at": "2026-10-02T13:29:13+07:00",
+    "scraped_at": "2026-10-02T22:30:59+07:00",
     "confidence": "high"
   },
   {
@@ -56,7 +56,7 @@
     "stop_loss": null,
     "note": "HOLD",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -71,7 +71,7 @@
     "stop_loss": null,
     "note": "Spec BUY",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -86,7 +86,7 @@
     "stop_loss": null,
     "note": "HOLD",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -101,7 +101,7 @@
     "stop_loss": null,
     "note": "HOLD",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -116,7 +116,7 @@
     "stop_loss": null,
     "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya. Indikator teknikal netral dan sentimen netral.",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -131,7 +131,7 @@
     "stop_loss": null,
     "note": "Direkomendasikan untuk jual. Indikator teknikal menunjukkan signal jual dengan sentimen netral/negatif",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -146,7 +146,7 @@
     "stop_loss": null,
     "note": "ADD",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -161,7 +161,7 @@
     "stop_loss": null,
     "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya atau boleh menambah posisi kepemilikan saham,",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -176,7 +176,7 @@
     "stop_loss": null,
     "note": "subscribe or sell any securities.",
     "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-    "scraped_at": "2026-10-02T13:29:26+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -191,7 +191,7 @@
     "stop_loss": null,
     "note": "PT Evergreen Sekuritas Indonesia --> --> Home About Us Profile Vision and Mission Organizational Structure Download --> Investor Relations Governance Good Corporate Governance Laporan Pengaduan Nasaba",
     "source_url": "https://evergreensekuritas.co.id/news/news",
-    "scraped_at": "2026-10-02T13:29:17+07:00",
+    "scraped_at": "2026-10-02T22:31:01+07:00",
     "confidence": "low"
   },
   {
@@ -202,11 +202,11 @@
     "ticker": "BOD",
     "action": "BUY",
     "price": null,
-    "target": 11350.0,
+    "target": 11675.0,
     "stop_loss": null,
     "note": "KB Valbury Sekuritas --> About Us Company Overview Vision, Mission & Core Values Management Corporate Governance BOD and BOC Guideline Code of Ethics Risk Management Policy Compliance and Internal Aud",
     "source_url": "https://www.kbvalbury.com/research/daily-technical-analysis",
-    "scraped_at": "2026-10-02T13:29:14+07:00",
+    "scraped_at": "2026-10-02T22:30:59+07:00",
     "confidence": "medium"
   },
   {
@@ -221,7 +221,7 @@
     "stop_loss": null,
     "note": "KIWOOM SEKURITAS INDONESIA About Us Company Information Corporate Governance Research Organization Open Account Open Account Process Trading System HTS MTS Research Market Report Daily News IPO News I",
     "source_url": "https://www.kiwoom.co.id/market/detailMarketReportMain?id=5169",
-    "scraped_at": "2026-10-02T13:29:30+07:00",
+    "scraped_at": "2026-10-02T22:31:14+07:00",
     "confidence": "medium"
   },
   {
@@ -236,7 +236,7 @@
     "stop_loss": null,
     "note": "Aksi jual asing pada saham big caps, terutama GOTO, BBCA, BBRI, AMMN, TLKM,",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -251,7 +251,7 @@
     "stop_loss": null,
     "note": "short selling menjadi penekan indeks. Indeks ETF EIDO dan MSCI Indonesia juga",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -266,7 +266,7 @@
     "stop_loss": null,
     "note": "IDR 120.00bn. Harga beli tersebut berada di bawah nilai pasar hasil penilaian in-",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -281,7 +281,7 @@
     "stop_loss": null,
     "note": "pengendali sekaligus pembeli siaga, yang kini menggenggam 54.57%, akan",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -296,7 +296,7 @@
     "stop_loss": null,
     "note": "BUY",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -311,7 +311,7 @@
     "stop_loss": null,
     "note": "BUY",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -326,7 +326,7 @@
     "stop_loss": null,
     "note": "BUY",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -341,7 +341,7 @@
     "stop_loss": null,
     "note": "BUY",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -356,7 +356,7 @@
     "stop_loss": null,
     "note": "Short Term Sell—MDKA",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -371,7 +371,7 @@
     "stop_loss": null,
     "note": "BUY",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -386,7 +386,7 @@
     "stop_loss": null,
     "note": "BUY",
     "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 2 Oktober 2026.pdf",
-    "scraped_at": "2026-10-02T13:29:28+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "medium"
   },
   {
@@ -536,7 +536,7 @@
     "stop_loss": null,
     "note": "Daily Report | 1 Sep 2026 – NH Korindo Sekuritas Indonesia Menu LAYANAN KAMI Berita & Riset Berita Riset Equity Riset Fixed Income Riset Perusahaan Outlook IPO E-IPO Notasi Khusus Equity Fixed Income ",
     "source_url": "https://www.nhis.co.id/id/daily-report-1-sep-2026/",
-    "scraped_at": "2026-10-02T13:29:17+07:00",
+    "scraped_at": "2026-10-02T22:31:02+07:00",
     "confidence": "medium"
   },
   {
@@ -551,7 +551,7 @@
     "stop_loss": null,
     "note": "Welcome to Phillip Sekuritas Indonesia --> --> 021-57900900 [email protected] Open An Account Single button Language English Indonesian --> --> Tentang Kami Tentang Kami Profil Sejarah Jaringan Global",
     "source_url": "https://www.phillip.co.id/",
-    "scraped_at": "2026-10-02T13:29:27+07:00",
+    "scraped_at": "2026-10-02T22:31:10+07:00",
     "confidence": "low"
   },
   {
@@ -566,7 +566,7 @@
     "stop_loss": null,
     "note": "Samuel Daily Research 2 October 2026 - Samuel Sekuritas Indonesia Skip to content HOME ABOUT US Profile Corporate Governance Corporate Social Responsibility Annual Financial Reports Career Stay Connec",
     "source_url": "https://samuel.co.id/research-reports/samuel-daily-research-2-october-2026/",
-    "scraped_at": "2026-10-02T13:29:27+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
   },
   {
@@ -1376,7 +1376,7 @@
     "stop_loss": null,
     "note": "Bank Negara Indonesia (BBNI IJ) (Buy) - Aug-26 results - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Othe",
     "source_url": "https://verdhanaresearch.com/bank-negara-indonesia-bbni-ij-buy-aug-26-results-k0g",
-    "scraped_at": "2026-10-02T13:29:15+07:00",
+    "scraped_at": "2026-10-02T22:31:01+07:00",
     "confidence": "medium"
   },
   {
@@ -1391,7 +1391,7 @@
     "stop_loss": null,
     "note": "Bank Mandiri (BMRI IJ) (Buy) - Aug-26 results - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Other Industi",
     "source_url": "https://verdhanaresearch.com/bank-mandiri-bmri-ij-buy-aug-26-results-vih",
-    "scraped_at": "2026-10-02T13:29:16+07:00",
+    "scraped_at": "2026-10-02T22:31:02+07:00",
     "confidence": "medium"
   },
   {
@@ -1406,7 +1406,7 @@
     "stop_loss": null,
     "note": "Bank Central Asia (BBCA IJ) (Buy) - Aug-26 results - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Other In",
     "source_url": "https://verdhanaresearch.com/bank-central-asia-bbca-ij-buy-aug-26-results-1yv",
-    "scraped_at": "2026-10-02T13:29:18+07:00",
+    "scraped_at": "2026-10-02T22:31:03+07:00",
     "confidence": "medium"
   },
   {
@@ -1421,7 +1421,7 @@
     "stop_loss": null,
     "note": "Aneka Tambang (ANTM IJ) (Buy) - Gold margin recovery with nickel ore momentum - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro ",
     "source_url": "https://verdhanaresearch.com/aneka-tambang-antm-ij-buy-gold-margin-recovery-with-nickel-ore-momentum-a6o",
-    "scraped_at": "2026-10-02T13:29:20+07:00",
+    "scraped_at": "2026-10-02T22:31:05+07:00",
     "confidence": "medium"
   },
   {
@@ -1436,7 +1436,7 @@
     "stop_loss": null,
     "note": "Ultrajaya Milk Industry & Trading (ULTJ IJ) (Buy) - Twin growth engines - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and St",
     "source_url": "https://verdhanaresearch.com/ultrajaya-milk-industry-trading-ultj-ij-buy-twin-growth-engines-box",
-    "scraped_at": "2026-10-02T13:29:21+07:00",
+    "scraped_at": "2026-10-02T22:31:07+07:00",
     "confidence": "medium"
   },
   {
@@ -1451,8 +1451,188 @@
     "stop_loss": null,
     "note": "Hartadinata Abadi (HRTA IJ) (Buy) - Gaining ground in gold - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media ",
     "source_url": "https://verdhanaresearch.com/hartadinata-abadi-hrta-ij-buy-gaining-ground-in-gold-s8d",
-    "scraped_at": "2026-10-02T13:29:23+07:00",
+    "scraped_at": "2026-10-02T22:31:09+07:00",
     "confidence": "medium"
+  },
+  {
+    "id": "e4637e69a7f7",
+    "date": "2026-10-02",
+    "source": "yt_rhb",
+    "source_name": "RHB Sekuritas Indonesia",
+    "ticker": "MSTI",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: MSTI punya cerita growth yang mungkin belum banyak dilirik👀 #investasisaham #trading #msti",
+    "source_url": "https://www.youtube.com/watch?v=bth_7-K8Yvs",
+    "scraped_at": "2026-10-02T22:31:30+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "cbe8cad1b3aa",
+    "date": "2026-10-02",
+    "source": "yt_mirae",
+    "source_name": "Mirae Asset Sekuritas Indonesia",
+    "ticker": "MTS",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: 새로워진 미래에셋증권 MTS, MAPS #shorts",
+    "source_url": "https://www.youtube.com/watch?v=lp-H6qnqz8Y",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "cae69469245c",
+    "date": "2026-10-02",
+    "source": "yt_mirae",
+    "source_name": "Mirae Asset Sekuritas Indonesia",
+    "ticker": "MAPS",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: 새로워진 미래에셋증권 MTS, MAPS #shorts",
+    "source_url": "https://www.youtube.com/watch?v=lp-H6qnqz8Y",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "aaf2e2f44c0f",
+    "date": "2026-10-02",
+    "source": "yt_mirae",
+    "source_name": "Mirae Asset Sekuritas Indonesia",
+    "ticker": "MTS",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: 새로워진 미래에셋증권 MTS, MAPS",
+    "source_url": "https://www.youtube.com/watch?v=3rjCQ_kDA-w",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "2b52eb10b586",
+    "date": "2026-10-02",
+    "source": "yt_mirae",
+    "source_name": "Mirae Asset Sekuritas Indonesia",
+    "ticker": "MAPS",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: 새로워진 미래에셋증권 MTS, MAPS",
+    "source_url": "https://www.youtube.com/watch?v=3rjCQ_kDA-w",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "fa1b9095f87b",
+    "date": "2026-10-02",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "MEDC",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: MEDC & DSSA: Inverted Cup & Handle, Apakah Ini Saatnya Masuk?",
+    "source_url": "https://www.youtube.com/watch?v=weY1YBwEADc",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "70c2cb75179d",
+    "date": "2026-10-02",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "DSSA",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: MEDC & DSSA: Inverted Cup & Handle, Apakah Ini Saatnya Masuk?",
+    "source_url": "https://www.youtube.com/watch?v=weY1YBwEADc",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "18d0cfea4cbb",
+    "date": "2026-10-02",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "GOTO",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: Analisis GOTO: Kenapa ARB Terus dan Kapan Harus Beli?",
+    "source_url": "https://www.youtube.com/watch?v=VE3ImWZoGm0",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "525e1a0dbd14",
+    "date": "2026-10-02",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "ARB",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: Analisis GOTO: Kenapa ARB Terus dan Kapan Harus Beli?",
+    "source_url": "https://www.youtube.com/watch?v=VE3ImWZoGm0",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "bfa242e3d9a0",
+    "date": "2026-10-02",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "ARB",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: 🔴 ARB 3x, GOTO Siap Buy? | Dampak Short Selling ke Pasar Saham, Potensi Amblas? | TIGER INSIGHTS",
+    "source_url": "https://www.youtube.com/watch?v=L1McxBdPlDM",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "a8c3dfae2339",
+    "date": "2026-10-02",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "GOTO",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: 🔴 ARB 3x, GOTO Siap Buy? | Dampak Short Selling ke Pasar Saham, Potensi Amblas? | TIGER INSIGHTS",
+    "source_url": "https://www.youtube.com/watch?v=L1McxBdPlDM",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
+    "confidence": "low"
+  },
+  {
+    "id": "0886e9b9f944",
+    "date": "2026-10-02",
+    "source": "yt_maybank",
+    "source_name": "Maybank Sekuritas Indonesia",
+    "ticker": "TIGER",
+    "action": "N/A",
+    "price": null,
+    "target": null,
+    "stop_loss": null,
+    "note": "YT: 🔴 ARB 3x, GOTO Siap Buy? | Dampak Short Selling ke Pasar Saham, Potensi Amblas? | TIGER INSIGHTS",
+    "source_url": "https://www.youtube.com/watch?v=L1McxBdPlDM",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
+    "confidence": "low"
   },
   {
     "id": "c53b710e51d6",
@@ -2771,7 +2951,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Anjlok Lagi? AUTO, CLEO & FORE Potensi Cuan? Cek Analisanya",
     "source_url": "https://www.youtube.com/watch?v=ZesMlhOQlVs",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -2786,7 +2966,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Anjlok Lagi? AUTO, CLEO & FORE Potensi Cuan? Cek Analisanya",
     "source_url": "https://www.youtube.com/watch?v=ZesMlhOQlVs",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -2801,7 +2981,7 @@
     "stop_loss": null,
     "note": "YT: IHSG Anjlok Lagi? AUTO, CLEO & FORE Potensi Cuan? Cek Analisanya",
     "source_url": "https://www.youtube.com/watch?v=ZesMlhOQlVs",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -2816,7 +2996,7 @@
     "stop_loss": null,
     "note": "YT: Right Issue BRIS vs VKTR: Mana yang Paling Menarik?",
     "source_url": "https://www.youtube.com/watch?v=OhFtz-XYoc4",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -2831,7 +3011,7 @@
     "stop_loss": null,
     "note": "YT: Right Issue BRIS vs VKTR: Mana yang Paling Menarik?",
     "source_url": "https://www.youtube.com/watch?v=OhFtz-XYoc4",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -2846,7 +3026,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Usai SeptemBEAR, Lanjut OktoBEAR atau OktoBULL? | BRIS, VKTR & Saham Right Issue | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=GlA3KB2iZDw",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -2861,7 +3041,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Usai SeptemBEAR, Lanjut OktoBEAR atau OktoBULL? | BRIS, VKTR & Saham Right Issue | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=GlA3KB2iZDw",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -2876,7 +3056,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Usai SeptemBEAR, Lanjut OktoBEAR atau OktoBULL? | BRIS, VKTR & Saham Right Issue | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=GlA3KB2iZDw",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -4406,7 +4586,7 @@
     "stop_loss": null,
     "note": "YT: 결혼을 결심했다면, 이제 미래를 준비할 시간? | 연애처럼 주식투자 EP.5",
     "source_url": "https://www.youtube.com/watch?v=axtNEOA1m1Y",
-    "scraped_at": "2026-10-01T23:08:04+07:00",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
     "confidence": "low"
   },
   {
@@ -4421,7 +4601,7 @@
     "stop_loss": null,
     "note": "YT: 퇴직연금(DC/IRP) 고객님을 위한 자산배분 상품 가이드(feat.디폴트옵션)",
     "source_url": "https://www.youtube.com/watch?v=wPXY-khfbSY",
-    "scraped_at": "2026-10-01T23:08:04+07:00",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
     "confidence": "low"
   },
   {
@@ -4436,7 +4616,7 @@
     "stop_loss": null,
     "note": "YT: 퇴직연금(DC/IRP) 고객님을 위한 자산배분 상품 가이드(feat.디폴트옵션)",
     "source_url": "https://www.youtube.com/watch?v=wPXY-khfbSY",
-    "scraped_at": "2026-10-01T23:08:04+07:00",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
     "confidence": "low"
   },
   {
@@ -4451,7 +4631,7 @@
     "stop_loss": null,
     "note": "YT: [MAPS 이용가이드] 해외주식매매신청",
     "source_url": "https://www.youtube.com/watch?v=UMXsFjLVGvk",
-    "scraped_at": "2026-10-01T23:08:04+07:00",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
     "confidence": "low"
   },
   {
@@ -4466,7 +4646,7 @@
     "stop_loss": null,
     "note": "YT: [MAPS 이용가이드] 연금 개시하기",
     "source_url": "https://www.youtube.com/watch?v=y9VTXStySEQ",
-    "scraped_at": "2026-10-01T23:08:04+07:00",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
     "confidence": "low"
   },
   {
@@ -4481,7 +4661,7 @@
     "stop_loss": null,
     "note": "YT: [MAPS 이용가이드] 연금 가져오기",
     "source_url": "https://www.youtube.com/watch?v=dZnUCl6m3fo",
-    "scraped_at": "2026-10-01T23:08:04+07:00",
+    "scraped_at": "2026-10-02T22:31:31+07:00",
     "confidence": "low"
   },
   {
@@ -4601,7 +4781,7 @@
     "stop_loss": null,
     "note": "YT: Analisis IHSG & Rekomendasi Saham: DMAS, ISAT, UNTR Siap Terbang?",
     "source_url": "https://www.youtube.com/watch?v=LEKBfz9UBa4",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -4616,7 +4796,7 @@
     "stop_loss": null,
     "note": "YT: Analisis IHSG & Rekomendasi Saham: DMAS, ISAT, UNTR Siap Terbang?",
     "source_url": "https://www.youtube.com/watch?v=LEKBfz9UBa4",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -4631,7 +4811,7 @@
     "stop_loss": null,
     "note": "YT: Analisis IHSG & Rekomendasi Saham: DMAS, ISAT, UNTR Siap Terbang?",
     "source_url": "https://www.youtube.com/watch?v=LEKBfz9UBa4",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -4646,7 +4826,7 @@
     "stop_loss": null,
     "note": "YT: Analisis Mendalam: Mengapa Yield Obligasi AS Tidak Menghancurkan Pasar",
     "source_url": "https://www.youtube.com/watch?v=TmfqMskgWn8",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -4661,7 +4841,7 @@
     "stop_loss": null,
     "note": "YT: 🔴 Minyak Anjlok & Rupiah Menguat, Efek ke IHSG? Siklus Suku Bunga, Nasib Pasar? | TIGER INSIGHTS",
     "source_url": "https://www.youtube.com/watch?v=0x5x8oGSp38",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -4676,7 +4856,7 @@
     "stop_loss": null,
     "note": "Bank Rakyat Indonesia (BBRI IJ)   BUY / TP: IDR:4,900 (+54.6%)   Analyst: Yap Swie Cu <br style=\"font-family: Arial, Verdana, sans-serif; font-si",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-10-02T13:29:14+07:00",
+    "scraped_at": "2026-10-02T22:31:01+07:00",
     "confidence": "medium"
   },
   {
@@ -6416,7 +6596,7 @@
     "stop_loss": null,
     "note": "YT: ESDM Pangkas Monopoli Afiliasi Tambang, Siapa Diuntungkan?",
     "source_url": "https://www.youtube.com/watch?v=Z_sCJUd2kfc",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -7976,7 +8156,7 @@
     "stop_loss": null,
     "note": "YT: Manuver BI-Kemenkeu Selaraskan SRBI, Apa Efeknya ke Pasar?",
     "source_url": "https://www.youtube.com/watch?v=DGsyc-fUznI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -7991,7 +8171,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -8006,7 +8186,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -8021,7 +8201,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -8036,7 +8216,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -8051,7 +8231,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -8066,7 +8246,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -8081,7 +8261,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -8096,7 +8276,7 @@
     "stop_loss": null,
     "note": "YT: PROF. GEMA MEMBUKTIKAN TIME CYCLE PASAR MODAL SUDAH ADA SEJAK 100 TAHUN LALU LEWAT ASTRONACCI!",
     "source_url": "https://www.youtube.com/watch?v=cmMnYarEGlI",
-    "scraped_at": "2026-10-01T23:08:05+07:00",
+    "scraped_at": "2026-10-02T22:31:33+07:00",
     "confidence": "low"
   },
   {
@@ -9611,7 +9791,7 @@
     "stop_loss": null,
     "note": "Perusahaan Gas Negara (PGAS IJ)   BUY / TP: IDR:2,630 (+82.6%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; fo",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-10-02T13:29:14+07:00",
+    "scraped_at": "2026-10-02T22:31:01+07:00",
     "confidence": "medium"
   },
   {
@@ -11216,7 +11396,7 @@
     "stop_loss": null,
     "note": "Bank Tabungan Negara (BBTN IJ)   BUY / TP: IDR:1,600 (+40.4 %)   Analyst: Yap Swie Cu <br style=\"font-family: Arial, Verdana, sans-serif; font-si",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-10-02T13:29:14+07:00",
+    "scraped_at": "2026-10-02T22:31:01+07:00",
     "confidence": "medium"
   },
   {
@@ -14306,7 +14486,7 @@
     "stop_loss": null,
     "note": "Bank Central Asia (BBCA IJ)   BUY / TP: IDR:9,200 (+47.8%)   Analyst: Yap Swie Cu <br style=\"font-family: Arial, Verdana, sans-serif; font-size:",
     "source_url": "https://www.yuanta.co.id/",
-    "scraped_at": "2026-10-02T13:29:14+07:00",
+    "scraped_at": "2026-10-02T22:31:01+07:00",
     "confidence": "medium"
   },
   {
