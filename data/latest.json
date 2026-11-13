@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:30:03+07:00",
+  "generated_at": "2026-11-14T00:02:09+07:00",
   "trading_day": "2026-11-13",
   "records": [
     {
@@ -14,7 +14,7 @@
       "stop_loss": 1400.0,
       "note": "Beli 1520 / TP 1550 / SL 1400",
       "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
+      "scraped_at": "2026-11-14T00:00:18+07:00",
       "confidence": "high"
     },
     {
@@ -29,7 +29,7 @@
       "stop_loss": 1100.0,
       "note": "Beli 1165 / TP 1195 / SL 1100",
       "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
+      "scraped_at": "2026-11-14T00:00:18+07:00",
       "confidence": "high"
     },
     {
@@ -44,7 +44,7 @@
       "stop_loss": 286.0,
       "note": "Beli 298 / TP 306 / SL 286",
       "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
+      "scraped_at": "2026-11-14T00:00:18+07:00",
       "confidence": "high"
     },
     {
@@ -59,7 +59,7 @@
       "stop_loss": null,
       "note": "HOLD",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -74,7 +74,7 @@
       "stop_loss": null,
       "note": "Spec BUY",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -89,7 +89,7 @@
       "stop_loss": null,
       "note": "HOLD",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -104,7 +104,7 @@
       "stop_loss": null,
       "note": "HOLD",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -119,7 +119,7 @@
       "stop_loss": null,
       "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya. Indikator teknikal netral dan sentimen netral.",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -134,7 +134,7 @@
       "stop_loss": null,
       "note": "Direkomendasikan untuk jual. Indikator teknikal menunjukkan signal jual dengan sentimen netral/negatif",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -149,7 +149,7 @@
       "stop_loss": null,
       "note": "ADD",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -164,7 +164,7 @@
       "stop_loss": null,
       "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya atau boleh menambah posisi kepemilikan saham,",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -179,7 +179,7 @@
       "stop_loss": null,
       "note": "subscribe or sell any securities.",
       "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -194,7 +194,7 @@
       "stop_loss": null,
       "note": "Technical Research - Binaartha Sekuritas Skip to content BINAARTHA Company Research Online Trading e-IPO Equity IPO Bond APERD BINAARTHA Company Research Online Trading e-IPO Equity IPO Bond APERD Buk",
       "source_url": "https://binaartha.com/technical-research.html",
-      "scraped_at": "2026-11-13T14:29:26+07:00",
+      "scraped_at": "2026-11-14T00:00:22+07:00",
       "confidence": "medium"
     },
     {
@@ -209,7 +209,7 @@
       "stop_loss": null,
       "note": "PT Evergreen Sekuritas Indonesia --> --> Home About Us Profile Vision and Mission Organizational Structure Download --> Investor Relations Governance Good Corporate Governance Laporan Pengaduan Nasaba",
       "source_url": "https://evergreensekuritas.co.id/news/news",
-      "scraped_at": "2026-11-13T14:29:27+07:00",
+      "scraped_at": "2026-11-14T00:00:23+07:00",
       "confidence": "low"
     },
     {
@@ -220,11 +220,11 @@
       "ticker": "BOD",
       "action": "BUY",
       "price": null,
-      "target": 2190.0,
+      "target": 5700.0,
       "stop_loss": null,
       "note": "KB Valbury Sekuritas --> About Us Company Overview Vision, Mission & Core Values Management Corporate Governance BOD and BOC Guideline Code of Ethics Risk Management Policy Compliance and Internal Aud",
       "source_url": "https://www.kbvalbury.com/research/daily-technical-analysis",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
+      "scraped_at": "2026-11-14T00:00:19+07:00",
       "confidence": "medium"
     },
     {
@@ -374,7 +374,7 @@
       "stop_loss": null,
       "note": "Daily Report | 1 Sep 2026 – NH Korindo Sekuritas Indonesia Menu LAYANAN KAMI Berita & Riset Berita Riset Equity Riset Fixed Income Riset Perusahaan Outlook IPO E-IPO Notasi Khusus Equity Fixed Income ",
       "source_url": "https://www.nhis.co.id/id/daily-report-1-sep-2026/",
-      "scraped_at": "2026-11-13T14:29:27+07:00",
+      "scraped_at": "2026-11-14T00:00:21+07:00",
       "confidence": "medium"
     },
     {
@@ -389,7 +389,7 @@
       "stop_loss": null,
       "note": "Welcome to Phillip Sekuritas Indonesia --> --> 021-57900900 [email protected] Open An Account Single button Language English Indonesian --> --> Tentang Kami Tentang Kami Profil Sejarah Jaringan Global",
       "source_url": "https://www.phillip.co.id/",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "low"
     },
     {
@@ -419,7 +419,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | reduce US GDP by 0.8%, and",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -434,7 +434,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | stability: inflation remains well contained below 3%, supporting household purchasing power and anchoring growth",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -449,7 +449,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | should remain relatively defensive, supported by resilient household spending. On the FX front, the rupiah is likely to remain range-bound, supported by macro stability but",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -464,7 +464,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | momentum may be incremental rather than bold that reflecting fiscal constraints and coalition politics. The absence of abrupt policy shifts reduces tail risks and supports a",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -479,7 +479,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | obtained by normalizing the accumulated responses by the standard deviation",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -494,7 +494,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | estimated using a VAR model in first differences. The accumulated IRF captures",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -509,7 +509,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | The financing mix for 2026 reveals a strategic pivot toward domestic markets and reduced",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -524,7 +524,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Foreign Investors Recorded Net Buy of IDR3.23 Trillion",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -539,7 +539,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | on some goods, are expected to reduce imports from China and impact Chinese exporters' profitability.",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -554,7 +554,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | It can act as a mediator, a neutral manufacturing base, or a bridge between blocs (e.g., BRICS and the West).",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -569,7 +569,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Additionally, foreign direct investment",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -584,7 +584,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Net buy (sell) - IDR tn",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -599,7 +599,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | as household purchasing power improves and monetary conditions ease. A potential rate-cut cycle in",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -614,7 +614,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | quality should remain intact, positioning BBCA as a core defensive holding with upside leverage to",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -629,7 +629,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Major Shareholders:",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -644,7 +644,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | sustain earnings momentum and outperform even in a subdued macroeconomic environment.",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -659,7 +659,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Valuation. We reiterate our Buy rating on ICBP with a target price of IDR 11,300, representing 42.1%",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -674,7 +674,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | contraction in GPM to 47.9% (vs. 48.5% in 9M24), alongside an increase in selling expenses to IDR 1.82 trillion (+10.3%",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -689,7 +689,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Valuation. We maintain a Buy rating on ACES with a target price of IDR 520, representing 30.0% upside and implying an",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -704,7 +704,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | (+1.8% YoY). 9M25 marked a clear turning point, driven by a rebound in average selling prices across the value",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -719,7 +719,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | JPFA: Momentum Builds as Strategy Takes Hold",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -734,7 +734,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | previously reduced GPS imports, have effectively reset the supply baseline. For JPFA, this supportive environment is",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -749,7 +749,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | expected to keep average selling prices well above production costs, reducing the severe price volatility that has historically",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -764,7 +764,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | and a higher share of value-added processed products, further reinforcing the structural quality of earnings.",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -779,7 +779,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Valuation. We maintain our Buy rating on JPFA with a target price of IDR 3,200, implying a FY26F P/E of 9.1x, or +1.5",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-13T14:29:37+07:00",
+      "scraped_at": "2026-11-14T00:00:31+07:00",
       "confidence": "medium"
     },
     {
@@ -794,7 +794,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | trade-offs, such as reduced electricity and energy subsidies or an increase in VAT to 12% to finance such programs.",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -809,7 +809,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | selective VAT increase and a 6.5% rise in the minimum wage set to boost household consumption,",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -824,7 +824,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | term. Increased household consumption means that economic resources (for",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -839,7 +839,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | historical average at 14.8x. We are overweight in the sector that exposed to the several positive factor such as low",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -854,7 +854,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Foreign Investors Recorded Net Buy of IDR4.65 Trillion",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -869,7 +869,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Onshore Investors Became the Biggest Net Buyers in 2025",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -884,7 +884,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | market in China when most non-Asian investors are Underweight China and Overweight US.",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -899,7 +899,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | export growth. Additionally, foreign",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -914,7 +914,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Net buy (sell) - IDR tn",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -929,7 +929,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | housing, water, electricity, and household fuels (-9.16% MoM) has increased disposable income,",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -944,7 +944,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | over 50% of Indonesia’s GDP. We call Buy on ICBP as our top picks in this sector.",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -959,7 +959,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | another positive factor that will contribute to the better profitability and operational efficiency. We call Buy on BBCA, BMRI,",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -974,7 +974,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | government measures, such as a 50% discount on electricity tariffs for low-power households in January and February 2025,",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -989,7 +989,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Major Shareholders:",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1004,7 +1004,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | creditors’ ability to meet debt obligations. Additionally, the bank’s risk coverage remains robust, as",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1019,7 +1019,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | allowing for sustained FMCG spending. Additionally, government policies remain favorable, with a",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1034,7 +1034,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | affordability and ICBP’s dominant market position. Additionally, product development and innovation in",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1049,7 +1049,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | government stimulus supporting household consumption. With inflation stabilizing and economic growth",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1064,7 +1064,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | remaining on track, ICBP’s earnings outlook remains resilient. We maintain our Buy rating with a TP of",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1079,7 +1079,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Holdings,",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1094,7 +1094,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Additionally, the government’s selective implementation of the 12% VAT increase in 2025, which",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1109,7 +1109,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | expected to be completed by 1Q25, ensuring minimal disruption. Additionally, ACES is ramping up its",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1124,7 +1124,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | operational efficiencies provide a strong foundation for resilience. We maintain our Buy rating with a TP",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1139,7 +1139,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | providing additional price stability. On the demand side, the USDA estimates that Indonesia’s livestock",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1154,7 +1154,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Additionally, the government’s planned adjustment of the Government Purchase Price (HPP) for feed corn",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1169,7 +1169,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | industry, holding a commanding 32% market share in poultry feed production capacity and 38% DOC",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1184,7 +1184,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | expanding processed food segment. We maintain our Buy rating with a TP of IDR 5,900, reflecting 23.9x",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1199,7 +1199,7 @@
       "stop_loss": null,
       "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | and lower-than-expected Broiler and DOC average selling prices.",
       "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-13T14:29:39+07:00",
+      "scraped_at": "2026-11-14T00:00:34+07:00",
       "confidence": "medium"
     },
     {
@@ -1214,7 +1214,7 @@
       "stop_loss": null,
       "note": "Bank Rakyat Indonesia (BBRI IJ) (Buy) - Solid 9M26 results - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media ",
       "source_url": "https://verdhanaresearch.com/bank-rakyat-indonesia-bbri-ij-buy-solid-9m26-results-5j6",
-      "scraped_at": "2026-11-13T14:29:26+07:00",
+      "scraped_at": "2026-11-14T00:00:21+07:00",
       "confidence": "medium"
     },
     {
@@ -1229,7 +1229,7 @@
       "stop_loss": null,
       "note": "Sumber Alfaria Trijaya (AMRT IJ) (Buy) - Built for tough times - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Me",
       "source_url": "https://verdhanaresearch.com/sumber-alfaria-trijaya-amrt-ij-buy-built-for-tough-times-sh2",
-      "scraped_at": "2026-11-13T14:29:27+07:00",
+      "scraped_at": "2026-11-14T00:00:23+07:00",
       "confidence": "medium"
     },
     {
@@ -1244,7 +1244,7 @@
       "stop_loss": null,
       "note": "Indonesia Equity Strategy - Assessing reforms in motion - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Oth",
       "source_url": "https://verdhanaresearch.com/indonesia-equity-strategy-assessing-reforms-in-motion-uqe",
-      "scraped_at": "2026-11-13T14:29:28+07:00",
+      "scraped_at": "2026-11-14T00:00:24+07:00",
       "confidence": "medium"
     },
     {
@@ -1259,7 +1259,7 @@
       "stop_loss": null,
       "note": "Indosat (ISAT IJ) (Buy) - Soft 3Q26 results - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Other Industies",
       "source_url": "https://verdhanaresearch.com/indosat-isat-ij-buy-soft-3q26-results-lcb",
-      "scraped_at": "2026-11-13T14:29:30+07:00",
+      "scraped_at": "2026-11-14T00:00:26+07:00",
       "confidence": "medium"
     },
     {
@@ -1274,7 +1274,7 @@
       "stop_loss": null,
       "note": "Arwana Citramulia (ARNA IJ) (Buy) - Record quarterly sales - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media ",
       "source_url": "https://verdhanaresearch.com/arwana-citramulia-arna-ij-buy-record-quarterly-sales-toz",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:00:27+07:00",
       "confidence": "medium"
     },
     {
@@ -1289,7 +1289,7 @@
       "stop_loss": null,
       "note": "Indofood CBP Sukses Makmur (ICBP IJ) (Buy) - Robust sales expected to drive core profit growth - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials ",
       "source_url": "https://verdhanaresearch.com/indofood-cbp-sukses-makmur-icbp-ij-buy-robust-sales-expected-to-drive-core-profit-growth-ggg",
-      "scraped_at": "2026-11-13T14:29:32+07:00",
+      "scraped_at": "2026-11-14T00:00:29+07:00",
       "confidence": "medium"
     },
     {
@@ -1304,7 +1304,7 @@
       "stop_loss": null,
       "note": "KIWOOM SEKURITAS INDONESIA About Us Company Information Corporate Governance Research Organization Open Account Open Account Process Trading System HTS MTS Research Market Report Daily News IPO News I",
       "source_url": "https://www.kiwoom.co.id/market/detailMarketReportMain?id=5287",
-      "scraped_at": "2026-11-13T14:29:46+07:00",
+      "scraped_at": "2026-11-14T00:00:42+07:00",
       "confidence": "medium"
     },
     {
@@ -1319,7 +1319,7 @@
       "stop_loss": null,
       "note": "menjadi lagging movers. Investor asing mencatatkan net buy sebesar IDR",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1334,7 +1334,7 @@
       "stop_loss": null,
       "note": "level 25,366. Aksi beli asing terhadap saham fundamental (BBRI, BBCA, ASII,",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1349,7 +1349,7 @@
       "stop_loss": null,
       "note": "Kencana Energi Lestari (KEEN) mengantongi dua perjanjian jual beli tenaga listrik",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1364,7 +1364,7 @@
       "stop_loss": null,
       "note": "BUY",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1379,7 +1379,7 @@
       "stop_loss": null,
       "note": "BUY",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1394,7 +1394,7 @@
       "stop_loss": null,
       "note": "BUY",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1409,7 +1409,7 @@
       "stop_loss": null,
       "note": "BUY",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1424,7 +1424,7 @@
       "stop_loss": null,
       "note": "Short Term Sell—BRMS",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1439,7 +1439,7 @@
       "stop_loss": null,
       "note": "BUY",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1454,7 +1454,7 @@
       "stop_loss": null,
       "note": "BUY",
       "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 13 November 2026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:01:31+07:00",
       "confidence": "medium"
     },
     {
@@ -1469,7 +1469,7 @@
       "stop_loss": null,
       "note": "Morning Dew 13 November 2026 | jumped higher from 7,781 units in September 2026. As additional information, GAIKINDO recorded",
       "source_url": "https://minnapadi.com/files/pdf/1794529572MDEW%2013%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:00:26+07:00",
       "confidence": "medium"
     },
     {
@@ -1484,7 +1484,7 @@
       "stop_loss": null,
       "note": "Morning Dew 13 November 2026 | installed capacity, and generate additional revenue from construction activities and long-term",
       "source_url": "https://minnapadi.com/files/pdf/1794529572MDEW%2013%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:00:26+07:00",
       "confidence": "medium"
     },
     {
@@ -1499,7 +1499,7 @@
       "stop_loss": null,
       "note": "Morning Dew 13 November 2026 | 34.7% respectively. The transaction could dilute existing shareholders by 83.96%. The proposal will be",
       "source_url": "https://minnapadi.com/files/pdf/1794529572MDEW%2013%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:00:26+07:00",
       "confidence": "medium"
     },
     {
@@ -1514,7 +1514,7 @@
       "stop_loss": null,
       "note": "Morning Dew 13 November 2026 | added tax (PPN DTP) incentives. MTLA is also advancing the development of several projects, such as",
       "source_url": "https://minnapadi.com/files/pdf/1794529572MDEW%2013%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:00:26+07:00",
       "confidence": "medium"
     },
     {
@@ -1529,7 +1529,7 @@
       "stop_loss": null,
       "note": "Morning Dew 13 November 2026 | offer or the solicitation of an offer to sell or to buy or to subscribe for securities or other financial instruments. The report has been",
       "source_url": "https://minnapadi.com/files/pdf/1794529572MDEW%2013%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:31+07:00",
+      "scraped_at": "2026-11-14T00:00:26+07:00",
       "confidence": "medium"
     },
     {
@@ -1544,8 +1544,113 @@
       "stop_loss": null,
       "note": "Samuel Daily Research 13 November 2026 - Samuel Sekuritas Indonesia Skip to content HOME ABOUT US Profile Corporate Governance Corporate Social Responsibility Annual Financial Reports Career Stay Conn",
       "source_url": "https://samuel.co.id/research-reports/samuel-daily-research-13-november-2026/",
-      "scraped_at": "2026-11-13T14:29:24+07:00",
+      "scraped_at": "2026-11-14T00:00:20+07:00",
       "confidence": "medium"
+    },
+    {
+      "id": "2b0f629df904",
+      "date": "2026-11-13",
+      "source": "yt_mirae",
+      "source_name": "Mirae Asset Sekuritas Indonesia",
+      "ticker": "CSI",
+      "action": "N/A",
+      "price": null,
+      "target": null,
+      "stop_loss": null,
+      "note": "YT: 우리 엄마는 CSI🕵️‍♀️ | 우리들의 하루 #shorts",
+      "source_url": "https://www.youtube.com/watch?v=ndRT_SFnehI",
+      "scraped_at": "2026-11-14T00:01:43+07:00",
+      "confidence": "low"
+    },
+    {
+      "id": "04e3f0333f04",
+      "date": "2026-11-13",
+      "source": "yt_mirae",
+      "source_name": "Mirae Asset Sekuritas Indonesia",
+      "ticker": "AMD",
+      "action": "N/A",
+      "price": null,
+      "target": null,
+      "stop_loss": null,
+      "note": "YT: 젠슨황 사임 엔비디아 하락, AMD∙브로드컴 상승 #shortsㅣ2026.11.13(금)",
+      "source_url": "https://www.youtube.com/watch?v=aT7ui_ORDhk",
+      "scraped_at": "2026-11-14T00:01:43+07:00",
+      "confidence": "low"
+    },
+    {
+      "id": "d778f0de92cd",
+      "date": "2026-11-13",
+      "source": "yt_maybank",
+      "source_name": "Maybank Sekuritas Indonesia",
+      "ticker": "MEDC",
+      "action": "N/A",
+      "price": null,
+      "target": null,
+      "stop_loss": null,
+      "note": "YT: MEDC Naik Usai Ex Date, Cuma Rebound Sementara? #shorts #investasi #saham",
+      "source_url": "https://www.youtube.com/watch?v=vvGA3tKS1L0",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
+      "confidence": "low"
+    },
+    {
+      "id": "b1925ff29732",
+      "date": "2026-11-13",
+      "source": "yt_maybank",
+      "source_name": "Maybank Sekuritas Indonesia",
+      "ticker": "MAPI",
+      "action": "N/A",
+      "price": null,
+      "target": null,
+      "stop_loss": null,
+      "note": "YT: MAPI Keluar LQ45, Lolos MSCI! Ini Kekuatan Fundamentalnya #shorts #saham #msci",
+      "source_url": "https://www.youtube.com/watch?v=xsInQMGFDIs",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
+      "confidence": "low"
+    },
+    {
+      "id": "602b8be60bb1",
+      "date": "2026-11-13",
+      "source": "yt_maybank",
+      "source_name": "Maybank Sekuritas Indonesia",
+      "ticker": "DEWA",
+      "action": "N/A",
+      "price": null,
+      "target": null,
+      "stop_loss": null,
+      "note": "YT: DEWA Melesat, BRPT Anjlok! Update Active Watchlist Hari Ini",
+      "source_url": "https://www.youtube.com/watch?v=-IMX00JWrYU",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
+      "confidence": "low"
+    },
+    {
+      "id": "a9f3ba305d1f",
+      "date": "2026-11-13",
+      "source": "yt_maybank",
+      "source_name": "Maybank Sekuritas Indonesia",
+      "ticker": "BRPT",
+      "action": "N/A",
+      "price": null,
+      "target": null,
+      "stop_loss": null,
+      "note": "YT: DEWA Melesat, BRPT Anjlok! Update Active Watchlist Hari Ini",
+      "source_url": "https://www.youtube.com/watch?v=-IMX00JWrYU",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
+      "confidence": "low"
+    },
+    {
+      "id": "42a8716e71f2",
+      "date": "2026-11-13",
+      "source": "yt_maybank",
+      "source_name": "Maybank Sekuritas Indonesia",
+      "ticker": "TIGER",
+      "action": "N/A",
+      "price": null,
+      "target": null,
+      "stop_loss": null,
+      "note": "YT: 🔴  IHSG Melonjak 2,66% Tapi Rupiah Melemah? Asing Balik Net Buy, Efek Update MSCI? | TIGER INSIGHTS",
+      "source_url": "https://www.youtube.com/watch?v=B8UrLbV1lFU",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
+      "confidence": "low"
     },
     {
       "id": "293fc0db1bf7",
@@ -2849,7 +2954,7 @@
       "stop_loss": null,
       "note": "YT: IHSG Hari Ini Berpotensi Menguat! LSIP, INDF, MYOR Jadi Incaran!",
       "source_url": "https://www.youtube.com/watch?v=QRCEroZvCr8",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2864,7 +2969,7 @@
       "stop_loss": null,
       "note": "YT: IHSG Hari Ini Berpotensi Menguat! LSIP, INDF, MYOR Jadi Incaran!",
       "source_url": "https://www.youtube.com/watch?v=QRCEroZvCr8",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2879,7 +2984,7 @@
       "stop_loss": null,
       "note": "YT: IHSG Hari Ini Berpotensi Menguat! LSIP, INDF, MYOR Jadi Incaran!",
       "source_url": "https://www.youtube.com/watch?v=QRCEroZvCr8",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2894,7 +2999,7 @@
       "stop_loss": null,
       "note": "YT: BRPT & BRMS Terancam Outflow MSCI, Apa Dampaknya?",
       "source_url": "https://www.youtube.com/watch?v=t2WgkgdRKDM",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2909,7 +3014,7 @@
       "stop_loss": null,
       "note": "YT: BRPT & BRMS Terancam Outflow MSCI, Apa Dampaknya?",
       "source_url": "https://www.youtube.com/watch?v=t2WgkgdRKDM",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2924,7 +3029,7 @@
       "stop_loss": null,
       "note": "YT: MSCI Resmi Coret BRPT & BRMS! Saham Big Caps Ikut Terancam?",
       "source_url": "https://www.youtube.com/watch?v=nP0yxzhf3as",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2939,7 +3044,7 @@
       "stop_loss": null,
       "note": "YT: MSCI Resmi Coret BRPT & BRMS! Saham Big Caps Ikut Terancam?",
       "source_url": "https://www.youtube.com/watch?v=nP0yxzhf3as",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2954,7 +3059,7 @@
       "stop_loss": null,
       "note": "YT: 🔴MSCI Depak BRPT & BRMS dari Standard Index, 7 Saham dari Small Cap! Efek ke IHSG? | TIGER INSIGHTS",
       "source_url": "https://www.youtube.com/watch?v=nig4Vds5WlU",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2969,7 +3074,7 @@
       "stop_loss": null,
       "note": "YT: 🔴MSCI Depak BRPT & BRMS dari Standard Index, 7 Saham dari Small Cap! Efek ke IHSG? | TIGER INSIGHTS",
       "source_url": "https://www.youtube.com/watch?v=nig4Vds5WlU",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2984,7 +3089,7 @@
       "stop_loss": null,
       "note": "YT: 🔴MSCI Depak BRPT & BRMS dari Standard Index, 7 Saham dari Small Cap! Efek ke IHSG? | TIGER INSIGHTS",
       "source_url": "https://www.youtube.com/watch?v=nig4Vds5WlU",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -2999,7 +3104,7 @@
       "stop_loss": null,
       "note": "Morning Dew 12 November 2026 | shareholder (projected stake of roughly 28.95–30.81% depending on public participation), while",
       "source_url": "https://minnapadi.com/files/pdf/1794454245MDEW%2012%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -3014,7 +3119,7 @@
       "stop_loss": null,
       "note": "Morning Dew 12 November 2026 | controlling shareholder PT Danantara Asset Management (approx. 91.11% stake) will fully exercise",
       "source_url": "https://minnapadi.com/files/pdf/1794454245MDEW%2012%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -3029,7 +3134,7 @@
       "stop_loss": null,
       "note": "Morning Dew 12 November 2026 | shareholders are earmarked for working capital to support the company’s transformation initiatives",
       "source_url": "https://minnapadi.com/files/pdf/1794454245MDEW%2012%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -3044,7 +3149,7 @@
       "stop_loss": null,
       "note": "Morning Dew 12 November 2026 | The Relative Strength Index (RSI) declined in tandem with price and continues to hold within the",
       "source_url": "https://minnapadi.com/files/pdf/1794454245MDEW%2012%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -3059,7 +3164,7 @@
       "stop_loss": null,
       "note": "Morning Dew 12 November 2026 | considered as an offer or the solicitation of an offer to sell or to buy or to subscribe for securities or other financial instruments.",
       "source_url": "https://minnapadi.com/files/pdf/1794454245MDEW%2012%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:33+07:00",
+      "scraped_at": "2026-11-14T00:00:28+07:00",
       "confidence": "medium"
     },
     {
@@ -3074,7 +3179,7 @@
       "stop_loss": null,
       "note": "IPO NOTE - PT Andalan Artha Primanusa Tbk. (ANDA) | offer or the solicitation of an offer to sell or to buy or subscribe for securities or other financial instruments. The report has been prepared without regard to",
       "source_url": "https://minnapadi.com/files/pdf/1794454083IPO%20NOTE%20-%20PT%20Andalan%20Artha%20Primanusa%20Tbk.%20%28ANDA%29.pdf",
-      "scraped_at": "2026-11-13T14:29:36+07:00",
+      "scraped_at": "2026-11-14T00:00:30+07:00",
       "confidence": "medium"
     },
     {
@@ -3089,7 +3194,7 @@
       "stop_loss": null,
       "note": "Morning Dew 11 November 2026 | IDX UPDATES METHODOLOGY, 383 STOCKS ADDED TO HSC LIST",
       "source_url": "https://minnapadi.com/files/pdf/1794327135MDEW%2011%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:38+07:00",
+      "scraped_at": "2026-11-14T00:00:32+07:00",
       "confidence": "medium"
     },
     {
@@ -3104,7 +3209,7 @@
       "stop_loss": null,
       "note": "Morning Dew 11 November 2026 | shareholders control 92.5% or more of the company's total shares.",
       "source_url": "https://minnapadi.com/files/pdf/1794327135MDEW%2011%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:38+07:00",
+      "scraped_at": "2026-11-14T00:00:32+07:00",
       "confidence": "medium"
     },
     {
@@ -3119,7 +3224,7 @@
       "stop_loss": null,
       "note": "Morning Dew 11 November 2026 | figure represents an increase of 300 stocks compared to the previous list, equivalent to an additional",
       "source_url": "https://minnapadi.com/files/pdf/1794327135MDEW%2011%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:38+07:00",
+      "scraped_at": "2026-11-14T00:00:32+07:00",
       "confidence": "medium"
     },
     {
@@ -3134,7 +3239,7 @@
       "stop_loss": null,
       "note": "Morning Dew 11 November 2026 | established on November 9, 2026. TCPI holds a 99% stake in this new entity, with the remaining 1%",
       "source_url": "https://minnapadi.com/files/pdf/1794327135MDEW%2011%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:38+07:00",
+      "scraped_at": "2026-11-14T00:00:32+07:00",
       "confidence": "medium"
     },
     {
@@ -3149,7 +3254,7 @@
       "stop_loss": null,
       "note": "Morning Dew 11 November 2026 | offer or the solicitation of an offer to sell or to buy or to subscribe for securities or other financial instruments. The report has been",
       "source_url": "https://minnapadi.com/files/pdf/1794327135MDEW%2011%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:38+07:00",
+      "scraped_at": "2026-11-14T00:00:32+07:00",
       "confidence": "medium"
     },
     {
@@ -4469,7 +4574,7 @@
       "stop_loss": null,
       "note": "YT: 부모님 특.ZIP | 우리들의 하루 EP.3",
       "source_url": "https://www.youtube.com/watch?v=rpOxO5Zapis",
-      "scraped_at": "2026-11-13T00:26:30+07:00",
+      "scraped_at": "2026-11-14T00:01:43+07:00",
       "confidence": "low"
     },
     {
@@ -4484,7 +4589,7 @@
       "stop_loss": null,
       "note": "YT: 부모님 특.ZIP | 우리들의 하루 EP.3",
       "source_url": "https://www.youtube.com/watch?v=rpOxO5Zapis",
-      "scraped_at": "2026-11-13T00:26:30+07:00",
+      "scraped_at": "2026-11-14T00:01:43+07:00",
       "confidence": "low"
     },
     {
@@ -4499,7 +4604,7 @@
       "stop_loss": null,
       "note": "YT: Ketinggalan RAJA & RATU yang Hampir ARA, Masih Layak Dibeli? #shorts #saham #investasi",
       "source_url": "https://www.youtube.com/watch?v=FJeRWjIXFCg",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -4514,7 +4619,7 @@
       "stop_loss": null,
       "note": "YT: Ketinggalan RAJA & RATU yang Hampir ARA, Masih Layak Dibeli? #shorts #saham #investasi",
       "source_url": "https://www.youtube.com/watch?v=FJeRWjIXFCg",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -4529,7 +4634,7 @@
       "stop_loss": null,
       "note": "YT: Ketinggalan RAJA & RATU yang Hampir ARA, Masih Layak Dibeli? #shorts #saham #investasi",
       "source_url": "https://www.youtube.com/watch?v=FJeRWjIXFCg",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:01:58+07:00",
       "confidence": "low"
     },
     {
@@ -6014,7 +6119,7 @@
       "stop_loss": null,
       "note": "Morning Dew 10 November 2026 | In 9M26, BBRI has Rp1,647 T (0% QoQ, +8% YTD, +15% YoY) loans outstanding, outperforming 8-10%",
       "source_url": "https://minnapadi.com/files/pdf/1794271493MDEW%2010%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:40+07:00",
+      "scraped_at": "2026-11-14T00:00:35+07:00",
       "confidence": "medium"
     },
     {
@@ -6029,7 +6134,7 @@
       "stop_loss": null,
       "note": "Morning Dew 10 November 2026 | infrastructure sector. Currently, KNJ holds 25% stake in PT Golden Prima Maritim, which owns 1 LNG",
       "source_url": "https://minnapadi.com/files/pdf/1794271493MDEW%2010%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:40+07:00",
+      "scraped_at": "2026-11-14T00:00:35+07:00",
       "confidence": "medium"
     },
     {
@@ -6044,7 +6149,7 @@
       "stop_loss": null,
       "note": "Morning Dew 10 November 2026 | offer or the solicitation of an offer to sell or to buy or to subscribe for securities or other financial instruments. The report has been",
       "source_url": "https://minnapadi.com/files/pdf/1794271493MDEW%2010%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-13T14:29:40+07:00",
+      "scraped_at": "2026-11-14T00:00:35+07:00",
       "confidence": "medium"
     },
     {
@@ -6104,7 +6209,7 @@
       "stop_loss": null,
       "note": "Bank Rakyat Indonesia (BBRI IJ)   BUY / TP: IDR:3,900 (+38.3%)   Analyst: Yap Swie Cu <br style=\"font-family: Arial, Verdana, sans-serif; font-si",
       "source_url": "https://www.yuanta.co.id/",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
+      "scraped_at": "2026-11-14T00:00:20+07:00",
       "confidence": "medium"
     },
     {
@@ -6179,7 +6284,7 @@
       "stop_loss": null,
       "note": "YT: IKK Tembus 119,9: Bukti Daya Beli RI Kembali Menggeliat?",
       "source_url": "https://www.youtube.com/watch?v=ziVjcVxteYQ",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:02:05+07:00",
       "confidence": "low"
     },
     {
@@ -6194,7 +6299,7 @@
       "stop_loss": null,
       "note": "YT: IKK Tembus 119,9: Bukti Daya Beli RI Kembali Menggeliat?",
       "source_url": "https://www.youtube.com/watch?v=ziVjcVxteYQ",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:02:05+07:00",
       "confidence": "low"
     },
     {
@@ -7724,7 +7829,7 @@
       "stop_loss": null,
       "note": "Sarana Menara (TOWR IJ)   BUY / TP: IDR:540 (+53.4%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; font-size: 1",
       "source_url": "https://www.yuanta.co.id/",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
+      "scraped_at": "2026-11-14T00:00:20+07:00",
       "confidence": "medium"
     },
     {
@@ -7739,7 +7844,7 @@
       "stop_loss": null,
       "note": "Mitratel (MTEL IJ)   BUY / TP: IDR:620 (+85.6%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; font-size: 12px;\"",
       "source_url": "https://www.yuanta.co.id/",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
+      "scraped_at": "2026-11-14T00:00:20+07:00",
       "confidence": "medium"
     },
     {
@@ -7769,7 +7874,7 @@
       "stop_loss": null,
       "note": "YT: Alasan Lo Kheng Hong Berani ALL-IN di Saham Ini! 📊🔥",
       "source_url": "https://www.youtube.com/watch?v=dU8LOt4fEQM",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:02:05+07:00",
       "confidence": "low"
     },
     {
@@ -7784,7 +7889,7 @@
       "stop_loss": null,
       "note": "YT: Alasan Lo Kheng Hong Berani ALL-IN di Saham Ini! 📊🔥",
       "source_url": "https://www.youtube.com/watch?v=dU8LOt4fEQM",
-      "scraped_at": "2026-11-13T00:26:32+07:00",
+      "scraped_at": "2026-11-14T00:02:05+07:00",
       "confidence": "low"
     },
     {
@@ -7906,1881 +8011,6 @@
       "source_url": "https://www.youtube.com/watch?v=1nrv9FTx55Y",
       "scraped_at": "2026-11-10T23:52:21+07:00",
       "confidence": "low"
-    },
-    {
-      "id": "22470584aee9",
-      "date": "2026-11-06",
-      "source": "ajaib",
-      "source_name": "Ajaib Sekuritas",
-      "ticker": "BSDE",
-      "action": "BUY",
-      "price": 494.0,
-      "target": 510.0,
-      "stop_loss": 480.0,
-      "note": "Beli 494 / TP 510 / SL 480",
-      "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-06T23:38:32+07:00",
-      "confidence": "high"
-    },
-    {
-      "id": "e78c8d05ce72",
-      "date": "2026-11-06",
-      "source": "ajaib",
-      "source_name": "Ajaib Sekuritas",
-      "ticker": "ADMR",
-      "action": "BUY",
-      "price": 1255.0,
-      "target": 1290.0,
-      "stop_loss": 1220.0,
-      "note": "Beli 1255 / TP 1290 / SL 1220",
-      "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-06T23:38:32+07:00",
-      "confidence": "high"
-    },
-    {
-      "id": "18e95e696eff",
-      "date": "2026-11-06",
-      "source": "ajaib",
-      "source_name": "Ajaib Sekuritas",
-      "ticker": "BRIS",
-      "action": "BUY",
-      "price": 1070.0,
-      "target": 1095.0,
-      "stop_loss": 990.0,
-      "note": "Beli 1070 / TP 1095 / SL 990",
-      "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-06T23:38:32+07:00",
-      "confidence": "high"
-    },
-    {
-      "id": "e5795faf6df0",
-      "date": "2026-11-06",
-      "source": "ajaib",
-      "source_name": "Ajaib Sekuritas",
-      "ticker": "MBMA",
-      "action": "BUY",
-      "price": 330.0,
-      "target": 338.0,
-      "stop_loss": 318.0,
-      "note": "Beli 330 / TP 338 / SL 318",
-      "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-06T23:38:32+07:00",
-      "confidence": "high"
-    },
-    {
-      "id": "c0f001bb8adc",
-      "date": "2026-11-06",
-      "source": "ajaib",
-      "source_name": "Ajaib Sekuritas",
-      "ticker": "BRMS",
-      "action": "BUY",
-      "price": 382.0,
-      "target": 390.0,
-      "stop_loss": 370.0,
-      "note": "Beli 382 / TP 390 / SL 370",
-      "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-06T23:38:32+07:00",
-      "confidence": "high"
-    },
-    {
-      "id": "d53593a381fe",
-      "date": "2026-11-06",
-      "source": "ajaib",
-      "source_name": "Ajaib Sekuritas",
-      "ticker": "AMMN",
-      "action": "BUY",
-      "price": 3760.0,
-      "target": 3870.0,
-      "stop_loss": 3500.0,
-      "note": "Beli 3760 / TP 3870 / SL 3500",
-      "source_url": "https://ajaib.co.id/saham/rekomendasi-saham",
-      "scraped_at": "2026-11-06T23:38:32+07:00",
-      "confidence": "high"
-    },
-    {
-      "id": "8a3600f40165",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "TOWR",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "HOLD",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "15cb49e08c38",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "ADHI",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Spec BUY",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "be06ea263c29",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "PGAS",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "HOLD",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "f62117953e50",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "SSMS",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "HOLD",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6cb8c7c86085",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "SELL",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya. Indikator teknikal netral dan sentimen netral.",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "1438ff514093",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "ADD",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Direkomendasikan untuk jual. Indikator teknikal menunjukkan signal jual dengan sentimen netral/negatif",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "477b86ff58c6",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "ADD",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "ADD",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "38de52ac6077",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "ADD",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Direkomendasikan untuk tahan jika sudah beli sebelumnya atau boleh menambah posisi kepemilikan saham,",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6c8704ac6f6f",
-      "date": "2026-11-06",
-      "source": "artha",
-      "source_name": "Artha Sekuritas Indonesia",
-      "ticker": "PT",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "subscribe or sell any securities.",
-      "source_url": "https://www.arthasekuritas.com/upload/daily/Daily Report 2022-11-24.pdf",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "2320f06c73f1",
-      "date": "2026-11-06",
-      "source": "binaartha",
-      "source_name": "Binaartha Sekuritas",
-      "ticker": "IPO",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Technical Research - Binaartha Sekuritas Skip to content BINAARTHA Company Research Online Trading e-IPO Equity IPO Bond APERD BINAARTHA Company Research Online Trading e-IPO Equity IPO Bond APERD Buk",
-      "source_url": "https://binaartha.com/technical-research.html",
-      "scraped_at": "2026-11-06T00:11:32+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "4e9bdc747eb2",
-      "date": "2026-11-06",
-      "source": "evergreen",
-      "source_name": "Evergreen Sekuritas Indonesia",
-      "ticker": "IPO",
-      "action": "BUY",
-      "price": null,
-      "target": 740.0,
-      "stop_loss": null,
-      "note": "PT Evergreen Sekuritas Indonesia --> --> Home About Us Profile Vision and Mission Organizational Structure Download --> Investor Relations Governance Good Corporate Governance Laporan Pengaduan Nasaba",
-      "source_url": "https://evergreensekuritas.co.id/news/news",
-      "scraped_at": "2026-11-06T23:38:34+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "732e93f855c0",
-      "date": "2026-11-06",
-      "source": "kbvalbury",
-      "source_name": "KB Valbury Sekuritas",
-      "ticker": "BOD",
-      "action": "BUY",
-      "price": null,
-      "target": 5300.0,
-      "stop_loss": null,
-      "note": "KB Valbury Sekuritas --> About Us Company Overview Vision, Mission & Core Values Management Corporate Governance BOD and BOC Guideline Code of Ethics Risk Management Policy Compliance and Internal Aud",
-      "source_url": "https://www.kbvalbury.com/research/daily-technical-analysis",
-      "scraped_at": "2026-11-06T23:38:32+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "ef4e58cb9459",
-      "date": "2026-11-06",
-      "source": "kiwoom",
-      "source_name": "Kiwoom Sekuritas Indonesia",
-      "ticker": "HTS",
-      "action": "HOLD",
-      "price": null,
-      "target": 5700.0,
-      "stop_loss": null,
-      "note": "KIWOOM SEKURITAS INDONESIA About Us Company Information Corporate Governance Research Organization Open Account Open Account Process Trading System HTS MTS Research Market Report Daily News IPO News I",
-      "source_url": "https://www.kiwoom.co.id/market/detailMarketReportMain?id=5261",
-      "scraped_at": "2026-11-06T00:11:42+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "8dde49c5f615",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "BRPT",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "1.46%) menjadi lagging movers. Investor asing mencatatkan net buy sebesar IDR",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "80892c5325f8",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "INTP",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "51998dda37e4",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "ARCI",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "0b3f13d7827e",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "HRTA",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "710a67e5eb5a",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "NCKL",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "18a9ad1fe152",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "JPFA",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Short Term Sell—JPFA",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6405f335efba",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "JPFA",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "8d1e087f3c84",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "PSAB",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 5 November 2026.pdf",
-      "scraped_at": "2026-11-06T00:11:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6e82cde99181",
-      "date": "2026-11-06",
-      "source": "nh",
-      "source_name": "NH Korindo Sekuritas Indonesia",
-      "ticker": "KAMI",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Daily Report | 1 Sep 2026 – NH Korindo Sekuritas Indonesia Menu LAYANAN KAMI Berita & Riset Berita Riset Equity Riset Fixed Income Riset Perusahaan Outlook IPO E-IPO Notasi Khusus Equity Fixed Income ",
-      "source_url": "https://www.nhis.co.id/id/daily-report-1-sep-2026/",
-      "scraped_at": "2026-11-06T23:38:33+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "d6cb95537489",
-      "date": "2026-11-06",
-      "source": "phillip",
-      "source_name": "Phillip Sekuritas Indonesia",
-      "ticker": "SBN",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Welcome to Phillip Sekuritas Indonesia --> --> 021-57900900 [email protected] Open An Account Single button Language English Indonesian --> --> Tentang Kami Tentang Kami Profil Sejarah Jaringan Global",
-      "source_url": "https://www.phillip.co.id/",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "6c47af47f88e",
-      "date": "2026-11-06",
-      "source": "samuel",
-      "source_name": "Samuel Sekuritas Indonesia",
-      "ticker": "HOME",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Samuel Economic Update: Gross Domestic Product 3Q26 5 November 2026 - Samuel Sekuritas Indonesia Skip to content HOME ABOUT US Profile Corporate Governance Corporate Social Responsibility Annual Finan",
-      "source_url": "https://samuel.co.id/research-reports/samuel-economic-update-gross-domestic-product-3q26-5-november-2026/",
-      "scraped_at": "2026-11-06T00:11:37+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "798e6db12cbc",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GDP",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | reduce US GDP by 0.8%, and",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "d5259a834240",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GDP",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | stability: inflation remains well contained below 3%, supporting household purchasing power and anchoring growth",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "cf6106bdd21c",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "FX",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | should remain relatively defensive, supported by resilient household spending. On the FX front, the rupiah is likely to remain range-bound, supported by macro stability but",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "5429de058958",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "EV",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | momentum may be incremental rather than bold that reflecting fiscal constraints and coalition politics. The absence of abrupt policy shifts reduces tail risks and supports a",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "af4515af2b91",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GDP",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | obtained by normalizing the accumulated responses by the standard deviation",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "90236a84c4ec",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "VAR",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | estimated using a VAR model in first differences. The accumulated IRF captures",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "1bac2208014e",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "SBN",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | The financing mix for 2026 reveals a strategic pivot toward domestic markets and reduced",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "38bce0216880",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "IGB",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Foreign Investors Recorded Net Buy of IDR3.23 Trillion",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "9b45a87a0a61",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "CEPII",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | on some goods, are expected to reduce imports from China and impact Chinese exporters' profitability.",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "fd52da1c5d31",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "BRICS",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | It can act as a mediator, a neutral manufacturing base, or a bridge between blocs (e.g., BRICS and the West).",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "9a6e8657821e",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "FDI",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Additionally, foreign direct investment",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "ac4f226bf3b5",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "MTD",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Net buy (sell) - IDR tn",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "f8fac72807e3",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "SME",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | as household purchasing power improves and monetary conditions ease. A potential rate-cut cycle in",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6f7a650fb337",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "BBCA",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | quality should remain intact, positioning BBCA as a core defensive holding with upside leverage to",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6e5896a566a0",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "PT",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Major Shareholders:",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "17f6db405ddd",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ICBP",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | sustain earnings momentum and outperform even in a subdued macroeconomic environment.",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "a5afa60d4d6d",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ICBP",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Valuation. We reiterate our Buy rating on ICBP with a target price of IDR 11,300, representing 42.1%",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "c6c813fd6a4a",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GPM",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | contraction in GPM to 47.9% (vs. 48.5% in 9M24), alongside an increase in selling expenses to IDR 1.82 trillion (+10.3%",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "a4dc123bd452",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ACES",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Valuation. We maintain a Buy rating on ACES with a target price of IDR 520, representing 30.0% upside and implying an",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "8667a8f7dd13",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "DOC",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | (+1.8% YoY). 9M25 marked a clear turning point, driven by a rebound in average selling prices across the value",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "f04b7444f7f4",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "JPFA",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | JPFA: Momentum Builds as Strategy Takes Hold",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "5f7437c5c8e1",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GPS",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | previously reduced GPS imports, have effectively reset the supply baseline. For JPFA, this supportive environment is",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "ec4e3e27a16d",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GPS",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | expected to keep average selling prices well above production costs, reducing the severe price volatility that has historically",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "fe3cbe0b6c25",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "JPFA",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | and a higher share of value-added processed products, further reinforcing the structural quality of earnings.",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "636411f91ba8",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "JPFA",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2026 - When Stability Becomes a Catalyst | Valuation. We maintain our Buy rating on JPFA with a target price of IDR 3,200, implying a FY26F P/E of 9.1x, or +1.5",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Economic-and-Equity-Outlook-for-When-Stability-Becomes-a-Catalyst.pdf",
-      "scraped_at": "2026-11-06T23:38:40+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "b6f7ea503cf0",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "VAT",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | trade-offs, such as reduced electricity and energy subsidies or an increase in VAT to 12% to finance such programs.",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "09550d021010",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "VAT",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | selective VAT increase and a 6.5% rise in the minimum wage set to boost household consumption,",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "90418e8b0404",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GDP",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | term. Increased household consumption means that economic resources (for",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "2f47305a90fc",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GDP",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | historical average at 14.8x. We are overweight in the sector that exposed to the several positive factor such as low",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "09f2b79ed335",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "IGB",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Foreign Investors Recorded Net Buy of IDR4.65 Trillion",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "9984d8b135ce",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "DJPPR",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Onshore Investors Became the Biggest Net Buyers in 2025",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "bbf109d41b7c",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "BULL",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | market in China when most non-Asian investors are Underweight China and Overweight US.",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "4a1c5654d3fe",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "FDI",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | export growth. Additionally, foreign",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "99709497840b",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "MTD",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Net buy (sell) - IDR tn",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "d92f43dd2859",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "FMCG",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | housing, water, electricity, and household fuels (-9.16% MoM) has increased disposable income,",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "e5f65495c831",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "GDP",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | over 50% of Indonesia’s GDP. We call Buy on ICBP as our top picks in this sector.",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "de951be792f9",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "BBCA",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | another positive factor that will contribute to the better profitability and operational efficiency. We call Buy on BBCA, BMRI,",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "f239ff184e73",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ACES",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | government measures, such as a 50% discount on electricity tariffs for low-power households in January and February 2025,",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "3850c6800747",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "PT",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Major Shareholders:",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "56200d2e57cb",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "NPL",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | creditors’ ability to meet debt obligations. Additionally, the bank’s risk coverage remains robust, as",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "98b96d2df71e",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "FMCG",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | allowing for sustained FMCG spending. Additionally, government policies remain favorable, with a",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "44e523304f55",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ICBP",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | affordability and ICBP’s dominant market position. Additionally, product development and innovation in",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "c1ecca5e7917",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ICBP",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | government stimulus supporting household consumption. With inflation stabilizing and economic growth",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "d1afcf4eca66",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ICBP",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | remaining on track, ICBP’s earnings outlook remains resilient. We maintain our Buy rating with a TP of",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "035e81929b8f",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "AZKO",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Holdings,",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "23558f127f08",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "VAT",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Additionally, the government’s selective implementation of the 12% VAT increase in 2025, which",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "1e473028e2f8",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ACES",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | expected to be completed by 1Q25, ensuring minimal disruption. Additionally, ACES is ramping up its",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "b287bd756d12",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "ACES",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | operational efficiencies provide a strong foundation for resilience. We maintain our Buy rating with a TP",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "96735eeb47c1",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "USDA",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | providing additional price stability. On the demand side, the USDA estimates that Indonesia’s livestock",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "438c016682cc",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "HPP",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | Additionally, the government’s planned adjustment of the Government Purchase Price (HPP) for feed corn",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "524f536dc6ac",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "DOC",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | industry, holding a commanding 32% market share in poultry feed production capacity and 38% DOC",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "a87b4a5db634",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "CPIN",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | expanding processed food segment. We maintain our Buy rating with a TP of IDR 5,900, reflecting 23.9x",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "541655e113f2",
-      "date": "2026-11-06",
-      "source": "shinhan",
-      "source_name": "Shinhan Sekuritas Indonesia",
-      "ticker": "DOC",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "viewOutlook: Economic and Equity Outlook for 2025 - Investment Opportunities in the Dynamic World | and lower-than-expected Broiler and DOC average selling prices.",
-      "source_url": "https://shinhansekuritas.co.id/file/outlook/Looking-at-Indonesia-Investment-Opportunities-in-the-Dynamic-World.pdf",
-      "scraped_at": "2026-11-06T23:38:43+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6259ccac5784",
-      "date": "2026-11-06",
-      "source": "verdhana",
-      "source_name": "Verdhana Sekuritas Indonesia",
-      "ticker": "VAC",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Indonesia Equity Strategy - Assessing reforms in motion - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Oth",
-      "source_url": "https://verdhanaresearch.com/indonesia-equity-strategy-assessing-reforms-in-motion-uqe",
-      "scraped_at": "2026-11-06T23:38:33+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "d7722ae8f6eb",
-      "date": "2026-11-06",
-      "source": "verdhana",
-      "source_name": "Verdhana Sekuritas Indonesia",
-      "ticker": "ISAT",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Indosat (ISAT IJ) (Buy) - Soft 3Q26 results - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media Other Industies",
-      "source_url": "https://verdhanaresearch.com/indosat-isat-ij-buy-soft-3q26-results-lcb",
-      "scraped_at": "2026-11-06T23:38:34+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "71613d1e5b8d",
-      "date": "2026-11-06",
-      "source": "verdhana",
-      "source_name": "Verdhana Sekuritas Indonesia",
-      "ticker": "ARNA",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Arwana Citramulia (ARNA IJ) (Buy) - Record quarterly sales - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Media ",
-      "source_url": "https://verdhanaresearch.com/arwana-citramulia-arna-ij-buy-record-quarterly-sales-toz",
-      "scraped_at": "2026-11-06T23:38:36+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6dd42af6518e",
-      "date": "2026-11-06",
-      "source": "verdhana",
-      "source_name": "Verdhana Sekuritas Indonesia",
-      "ticker": "CBP",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Indofood CBP Sukses Makmur (ICBP IJ) (Buy) - Robust sales expected to drive core profit growth - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials ",
-      "source_url": "https://verdhanaresearch.com/indofood-cbp-sukses-makmur-icbp-ij-buy-robust-sales-expected-to-drive-core-profit-growth-ggg",
-      "scraped_at": "2026-11-06T23:38:36+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "d429d5cf15ee",
-      "date": "2026-11-06",
-      "source": "verdhana",
-      "source_name": "Verdhana Sekuritas Indonesia",
-      "ticker": "BBCA",
-      "action": "BUY",
-      "price": null,
-      "target": 13200.0,
-      "stop_loss": null,
-      "note": "Bank Central Asia (BBCA IJ) (Buy) - Satisfactory 9M26 results - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Med",
-      "source_url": "https://verdhanaresearch.com/bank-central-asia-bbca-ij-buy-satisfactory-9m26-results-wga",
-      "scraped_at": "2026-11-06T23:38:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "b07cd1e5b824",
-      "date": "2026-11-06",
-      "source": "verdhana",
-      "source_name": "Verdhana Sekuritas Indonesia",
-      "ticker": "BBNI",
-      "action": "BUY",
-      "price": null,
-      "target": 13200.0,
-      "stop_loss": null,
-      "note": "Bank Negara Indonesia (BBNI IJ) (Buy) - 9M26 results in-line - Verdhana Research Commodities and Energy Consumers Engineering Construction Equity Coverage Financials Healthcare Macro and Strategy Medi",
-      "source_url": "https://verdhanaresearch.com/bank-negara-indonesia-bbni-ij-buy-9m26-results-in-line-pj1",
-      "scraped_at": "2026-11-06T23:38:39+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6b388a557928",
-      "date": "2026-11-06",
-      "source": "binaartha",
-      "source_name": "Binaartha Sekuritas",
-      "ticker": "IPO",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Technical Research - Binaartha Sekuritas Skip to content BINAARTHA Company Research Online Trading e-IPO Equity IPO Bond APERD BINAARTHA Company Research Online Trading e-IPO Equity IPO Bond APERD Buk",
-      "source_url": "https://binaartha.com/technical-research.html",
-      "scraped_at": "2026-11-06T23:38:34+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "10e596920c6f",
-      "date": "2026-11-06",
-      "source": "kiwoom",
-      "source_name": "Kiwoom Sekuritas Indonesia",
-      "ticker": "HTS",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "KIWOOM SEKURITAS INDONESIA About Us Company Information Corporate Governance Research Organization Open Account Open Account Process Trading System HTS MTS Research Market Report Daily News IPO News I",
-      "source_url": "https://www.kiwoom.co.id/market/detailMarketReportMain?id=5264",
-      "scraped_at": "2026-11-06T23:38:45+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "8bdb0575753b",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "BRPT",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "1.15%) menjadi lagging movers. Investor asing mencatatkan net sell sebesar IDR",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "57ff2571382f",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "AS",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "tan regulasi data center di AS, serta aksi jual besar pada saham semikonduktor",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "6d9e83e19e57",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "KPR",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "beli rumah pertama dan end-user. Dari sisi fundamental, kinerja 9M26 lebih di-",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "569e68c8542e",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "RUPS",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "ham (buyback) tanpa RUPS dalam kondisi pasar yang berfluktuasi secara sig-",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "eb092f9e0e22",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "POJK",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "menjadi 11.90%. Buyback akan dilaksanakan pada periode 5 November 2026",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "cf88c369051e",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "MPMX",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "e5f61a7ff88c",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "AMMN",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "ba02c9db2523",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "AMRT",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "fd6f385f6814",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "RATU",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "00756390f2df",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "PACK",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Short Term Sell—PACK",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "f377fa5aaa86",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "PACK",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "3b38d82f854e",
-      "date": "2026-11-06",
-      "source": "mega",
-      "source_name": "Mega Capital Sekuritas",
-      "ticker": "WIRG",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "BUY",
-      "source_url": "https://www.megasekuritas.id/rsch/Equity Daily Report - 6 November 2026.pdf",
-      "scraped_at": "2026-11-06T14:31:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "ce0bffdc37b9",
-      "date": "2026-11-06",
-      "source": "samuel",
-      "source_name": "Samuel Sekuritas Indonesia",
-      "ticker": "HOME",
-      "action": "REDUCE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Samuel economic Update : Indonesia Foreign Exchange Reserves 6 November 2026 - Samuel Sekuritas Indonesia Skip to content HOME ABOUT US Profile Corporate Governance Corporate Social Responsibility Ann",
-      "source_url": "https://samuel.co.id/research-reports/samuel-economic-update-indonesia-foreign-exchange-reserves-6-november-2026/",
-      "scraped_at": "2026-11-06T23:38:38+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "178dae9521b7",
-      "date": "2026-11-06",
-      "source": "yuanta",
-      "source_name": "Yuanta Sekuritas Indonesia",
-      "ticker": "PGEO",
-      "action": "BUY",
-      "price": null,
-      "target": 1390.0,
-      "stop_loss": null,
-      "note": "Pertamina Geothermal (PGEO IJ)   BUY / TP: IDR:1,390 (+46.3%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; fon",
-      "source_url": "https://www.yuanta.co.id/",
-      "scraped_at": "2026-11-13T14:29:25+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "e99ba55dd8fe",
-      "date": "2026-11-06",
-      "source": "yuanta",
-      "source_name": "Yuanta Sekuritas Indonesia",
-      "ticker": "PGAS",
-      "action": "BUY",
-      "price": null,
-      "target": 2640.0,
-      "stop_loss": null,
-      "note": "Perusahaan Gas Negara (PGAS IJ)   BUY / TP: IDR:2,640 (+86.6%)   Analyst: Chandra Pasaribu <br style=\"font-family: Arial, Verdana, sans-serif; fo",
-      "source_url": "https://www.yuanta.co.id/",
-      "scraped_at": "2026-11-11T14:23:26+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "3e7c7459bbbb",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "AS",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: Bursa AS Melemah, Rupiah Jadi Penopang IHSG?",
-      "source_url": "https://www.youtube.com/watch?v=V7jYQ7_dd84",
-      "scraped_at": "2026-11-10T23:52:21+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "f2b8adad1f80",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "AADI",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: Saat IHSG Rebound, Kenapa AADI Malah Melemah? #shorts #saham #investasi",
-      "source_url": "https://www.youtube.com/watch?v=S3pMGha1d_o",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "b5d650ee4999",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "ADMR",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: ADMR hingga BUMI Masuk Watchlist! Saham Mana Paling Menarik?",
-      "source_url": "https://www.youtube.com/watch?v=SDpTXQ0k87s",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "61dfebfb9b0e",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "BUMI",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: ADMR hingga BUMI Masuk Watchlist! Saham Mana Paling Menarik?",
-      "source_url": "https://www.youtube.com/watch?v=SDpTXQ0k87s",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "38b0cbde2b13",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "EXCL",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: IHSG Mulai Rebound, EXCL, INTP dan ICBP Menarik Dipantau!",
-      "source_url": "https://www.youtube.com/watch?v=xW9m8GwXQ2Y",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "7440e594963e",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "INTP",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: IHSG Mulai Rebound, EXCL, INTP dan ICBP Menarik Dipantau!",
-      "source_url": "https://www.youtube.com/watch?v=xW9m8GwXQ2Y",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "f618cbe957ad",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "ICBP",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: IHSG Mulai Rebound, EXCL, INTP dan ICBP Menarik Dipantau!",
-      "source_url": "https://www.youtube.com/watch?v=xW9m8GwXQ2Y",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "41315edb613b",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "SMGR",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: Saham Semen Mulai Bangkit, SMGR atau INTP yang Lebih Untung?",
-      "source_url": "https://www.youtube.com/watch?v=mtGNzZI80TE",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "abf7def2ae37",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "INTP",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: Saham Semen Mulai Bangkit, SMGR atau INTP yang Lebih Untung?",
-      "source_url": "https://www.youtube.com/watch?v=mtGNzZI80TE",
-      "scraped_at": "2026-11-10T02:37:36+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "8c5147089960",
-      "date": "2026-11-06",
-      "source": "yt_maybank",
-      "source_name": "Maybank Sekuritas Indonesia",
-      "ticker": "TIGER",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: 🔴 IHSG Naik 2,25%, Saham Likuiditas Kecil Berfundamental Kuat jadi Opsi Sesaat? | TIGER INSIGHTS",
-      "source_url": "https://www.youtube.com/watch?v=rE9hluxmD0k",
-      "scraped_at": "2026-11-06T23:39:11+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "9234fc839719",
-      "date": "2026-11-06",
-      "source": "yt_sinarmas",
-      "source_name": "Sinarmas Sekuritas",
-      "ticker": "PDB",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: PDB Q3 Naik 5,47%, Saham SektorApa yang Paling Cuan?",
-      "source_url": "https://www.youtube.com/watch?v=7DFmcXDEKd0",
-      "scraped_at": "2026-11-11T23:58:41+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "b4f765926abc",
-      "date": "2026-11-06",
-      "source": "yt_sinarmas",
-      "source_name": "Sinarmas Sekuritas",
-      "ticker": "PDB",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: PDB Q3 Naik 5,47%, Saham SektorApa yang Paling Cuan?",
-      "source_url": "https://www.youtube.com/watch?v=RXJgKNoQrMg",
-      "scraped_at": "2026-11-06T23:39:11+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "7729916933f7",
-      "date": "2026-11-06",
-      "source": "yt_sinarmas",
-      "source_name": "Sinarmas Sekuritas",
-      "ticker": "PDB",
-      "action": "N/A",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "YT: Menanti Data PDB Q3 2026, Penentu Arah IHSG Selanjutnya?",
-      "source_url": "https://www.youtube.com/watch?v=V3pmRwUz1u4",
-      "scraped_at": "2026-11-11T23:58:41+07:00",
-      "confidence": "low"
-    },
-    {
-      "id": "9289015bca52",
-      "date": "2026-11-06",
-      "source": "minnapadi",
-      "source_name": "Minna Padi Investama Sekuritas Tbk",
-      "ticker": "PPN",
-      "action": "ACCUMULATE",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Morning Dew 6 November 2026 | purchase homes. In addition to the residential segment, commercial land plots contributed Rp866 B",
-      "source_url": "https://minnapadi.com/files/pdf/1793904145MDEW%206%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-11T23:57:46+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "c633f898530a",
-      "date": "2026-11-06",
-      "source": "minnapadi",
-      "source_name": "Minna Padi Investama Sekuritas Tbk",
-      "ticker": "PANI",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Morning Dew 6 November 2026 | holds a land bank spanning 1,828 hectares, managed through 12 subsidiaries.",
-      "source_url": "https://minnapadi.com/files/pdf/1793904145MDEW%206%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-11T23:57:46+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "8a76a5e6c4fa",
-      "date": "2026-11-06",
-      "source": "minnapadi",
-      "source_name": "Minna Padi Investama Sekuritas Tbk",
-      "ticker": "LPKR",
-      "action": "BUY",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Morning Dew 6 November 2026 | from first-time homebuyers and end-users—consumers purchasing homes for their own occupancy.",
-      "source_url": "https://minnapadi.com/files/pdf/1793904145MDEW%206%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-11T23:57:46+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "13fd92014b4d",
-      "date": "2026-11-06",
-      "source": "minnapadi",
-      "source_name": "Minna Padi Investama Sekuritas Tbk",
-      "ticker": "GMFI",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Morning Dew 6 November 2026 | as a non-cash capital injection. Meanwhile, shareholders who do not exercise their pre-emptive",
-      "source_url": "https://minnapadi.com/files/pdf/1793904145MDEW%206%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-11T23:57:46+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "1abba707a280",
-      "date": "2026-11-06",
-      "source": "minnapadi",
-      "source_name": "Minna Padi Investama Sekuritas Tbk",
-      "ticker": "HMETD",
-      "action": "HOLD",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Morning Dew 6 November 2026 | (portepel) with a nominal value of Rp50 per share. Each holder of 15,200 Existing Shares is entitled",
-      "source_url": "https://minnapadi.com/files/pdf/1793904145MDEW%206%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-11T23:57:46+07:00",
-      "confidence": "medium"
-    },
-    {
-      "id": "d7081d6667b6",
-      "date": "2026-11-06",
-      "source": "minnapadi",
-      "source_name": "Minna Padi Investama Sekuritas Tbk",
-      "ticker": "PT",
-      "action": "SELL",
-      "price": null,
-      "target": null,
-      "stop_loss": null,
-      "note": "Morning Dew 6 November 2026 | offer or the solicitation of an offer to sell or to buy or to subscribe for securities or other financial instruments. The report has been",
-      "source_url": "https://minnapadi.com/files/pdf/1793904145MDEW%206%20NOVEMBER%202026.pdf",
-      "scraped_at": "2026-11-11T23:57:46+07:00",
-      "confidence": "medium"
     }
   ]
 }
